@@ -1,0 +1,1131 @@
+{
+  "schemaVersion": 1,
+  "selectedLayout": "compact",
+  "recipes": [
+    {
+      "id": "zitronen-kraeuter-pasta",
+      "recipeNumber": 1,
+      "name": "Cremige Zitronen-Kräuter-Pasta",
+      "description": "Samtige Tagliatelle mit frischer Zitrone, jungem Spinat und gerösteten Kirschtomaten.",
+      "prepTime": "15 Min.",
+      "cookTime": "20 Min.",
+      "totalTime": "35 Min.",
+      "servings": 4,
+      "difficulty": "Einfach",
+      "tags": ["vegetarisch", "pasta", "schnell"],
+      "ingredients": [
+        { "amount": "400 g", "item": "Tagliatelle" },
+        { "amount": "250 g", "item": "Kirschtomaten" },
+        { "amount": "150 g", "item": "Babyspinat" },
+        { "amount": "200 ml", "item": "Sahne" },
+        { "amount": "80 g", "item": "Parmesan, gerieben" },
+        { "amount": "1", "item": "Bio-Zitrone" },
+        { "amount": "2", "item": "Knoblauchzehen" },
+        { "amount": "2 EL", "item": "Olivenöl" },
+        { "amount": "1 Handvoll", "item": "Basilikum" },
+        { "amount": "nach Bedarf", "item": "Salz & Pfeffer" }
+      ],
+      "steps": [
+        "Backofen auf 200 °C Ober-/Unterhitze vorheizen. Tomaten mit 1 EL Öl, Salz und Pfeffer mischen und 15 Minuten rösten.",
+        "Tagliatelle in reichlich Salzwasser al dente kochen. Vor dem Abgießen etwa 150 ml Nudelwasser auffangen.",
+        "Knoblauch fein hacken und im übrigen Öl kurz anschwitzen. Sahne, Zitronenabrieb und 2 EL Zitronensaft einrühren.",
+        "Parmesan und Spinat unterheben. Mit etwas Nudelwasser zu einer seidigen Sauce rühren und kräftig abschmecken.",
+        "Pasta in der Sauce schwenken. Mit den gerösteten Tomaten und frischem Basilikum anrichten."
+      ],
+      "tip": "Für mehr Frische vor dem Servieren noch etwas Zitronenabrieb über die Pasta geben.",
+      "image": "assets/images/zitronen-kraeuter-pasta.png",
+      "imageAlt": "Cremige Tagliatelle mit Spinat, Kirschtomaten, Parmesan und Basilikum",
+      "source": { "type": "original", "url": null, "note": "Beispielrezept für die Layoutauswahl" }
+    },
+    {
+      "id": "ultimative-chocolate-chip-cookies",
+      "recipeNumber": 2,
+      "name": "Ultimative Chocolate Chip Cookies",
+      "description": "Große, innen weiche Cookies mit braunem Zucker und reichlich grob gehackter Lieblingsschokolade.",
+      "prepTime": "20 Min.",
+      "cookTime": "ca. 40 Min.",
+      "totalTime": "ca. 1 Std.",
+      "servings": 32,
+      "yield": "30–35 Cookies",
+      "difficulty": "Einfach",
+      "tags": ["backen", "cookies", "süß", "schokolade"],
+      "ingredients": [
+        { "amount": "300 g", "item": "Mehl" },
+        { "amount": "1 Prise", "item": "Salz" },
+        { "amount": "1/2 TL", "item": "Backpulver" },
+        { "amount": "150 g", "item": "Butter, geschmolzen und abgekühlt" },
+        { "amount": "150 g", "item": "brauner Zucker (Muscovado)" },
+        { "amount": "90 g", "item": "weißer Zucker" },
+        { "amount": "etwas", "item": "Vanilleextrakt oder 1 Päckchen Vanillezucker" },
+        { "amount": "1", "item": "Ei (Größe L)" },
+        { "amount": "1", "item": "Eigelb" },
+        { "amount": "250–300 g", "item": "Lieblingsschokolade, grob gehackt" }
+      ],
+      "steps": [
+        "Backofen auf 160 °C Ober-/Unterhitze vorheizen und ein bis zwei Backbleche mit Backpapier auslegen.",
+        "Mehl, Salz und Backpulver in einer Schüssel mischen und beiseitestellen.",
+        "Butter, beide Zuckersorten, Vanille, Ei und Eigelb cremig aufschlagen. Die Mehlmischung nur kurz unterrühren, bis ein gleichmäßiger Teig entsteht. Zum Schluss die Schokolade unterheben.",
+        "Teig zu Kugeln formen, mit großzügigem Abstand auf die Bleche setzen und 9–13 Minuten backen. Pro Blech passen etwa 8–10 große Cookies; bei Bedarf in mehreren Durchgängen backen. Die noch weichen Cookies auf dem Blech abkühlen und fest werden lassen."
+      ],
+      "tip": "In einer Keks- oder Blechdose halten sich die Cookies bis zu 2 Wochen.",
+      "image": "assets/images/ultimative-chocolate-chip-cookies.png",
+      "imageAlt": "Goldbraune Chocolate Chip Cookies mit groben Schokoladenstücken",
+      "source": {
+        "type": "screenshots",
+        "url": "https://schaetzeausmeinerkueche.de",
+        "note": "Aus drei vom Nutzer bereitgestellten Screenshots übernommen; nach einem Rezept von Linda Lomelino. Vorbereitungs- und Gesamtzeit wurden aus Umfang und mehreren Backdurchgängen geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "quarkcreme-mit-himbeeren",
+      "recipeNumber": 3,
+      "name": "Quarkcreme mit Himbeeren",
+      "description": "Fruchtiges Schichtdessert aus Quarkcreme, Himbeeren und knusprigem Baiser.",
+      "prepTime": "20 Min.",
+      "cookTime": "0 Min.",
+      "totalTime": "2 Std. 20 Min.",
+      "servings": 8,
+      "difficulty": "Einfach",
+      "tags": ["dessert", "himbeeren", "quark", "ohne backen"],
+      "ingredients": [
+        { "amount": "500 g", "item": "Magerquark" },
+        { "amount": "400 g", "item": "Sahne" },
+        { "amount": "nach Geschmack", "item": "Zucker" },
+        { "amount": "500 g", "item": "Himbeeren, gefroren" },
+        { "amount": "1 Packung", "item": "weißer Baiser" }
+      ],
+      "steps": [
+        "Magerquark mit Zucker nach Geschmack glatt rühren.",
+        "Sahne steif schlagen und unter den Quark heben.",
+        "Baiser grob zerkrümeln und einen kleinen Teil zum Garnieren beiseitestellen.",
+        "Quarkcreme, gefrorene Himbeeren und Baiser abwechselnd in eine Glasform schichten, sodass mindestens zwei Himbeerschichten entstehen. Mit Quarkcreme abschließen.",
+        "Dessert mindestens 2–3 Stunden kalt stellen und vor dem Servieren mit den übrigen Baiserkrümeln bestreuen."
+      ],
+      "tip": "Die Baiserkrümel zum Garnieren erst direkt vor dem Servieren aufstreuen.",
+      "image": "assets/images/quarkcreme-mit-himbeeren.png",
+      "imageAlt": "Geschichtete Quarkcreme mit Himbeeren und Baiser in einer Glasschale",
+      "source": {
+        "type": "photos",
+        "url": null,
+        "note": "Aus den Nutzerfotos 1 und 4 übernommen. Vorbereitungszeit und Portionenzahl wurden geschätzt; die Gesamtzeit enthält die Mindestkühlzeit. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "lachsrolle",
+      "recipeNumber": 4,
+      "name": "Lachsrolle",
+      "description": "Herzhafte Spinat-Käse-Rolle mit Kräuterfrischkäse und Räucherlachs.",
+      "prepTime": "20 Min.",
+      "cookTime": "15 Min.",
+      "totalTime": "8 Std. 35 Min.",
+      "servings": 8,
+      "yield": "1 Rolle",
+      "difficulty": "Einfach",
+      "tags": ["fisch", "lachs", "spinat", "party"],
+      "ingredients": [
+        { "amount": "200 g", "item": "Räucherlachs" },
+        { "amount": "180 g", "item": "Rahmspinat" },
+        { "amount": "200 g", "item": "Käse, gerieben" },
+        { "amount": "200 g", "item": "Kräuterfrischkäse" },
+        { "amount": "2", "item": "Eier" }
+      ],
+      "steps": [
+        "Rahmspinat auftauen und mit den Eiern verrühren.",
+        "Masse auf einem mit Backpapier belegten Backblech verteilen und mit dem geriebenen Käse bestreuen.",
+        "Bei 200 °C etwa 15 Minuten backen, bis der Käse gebräunt ist, anschließend vollständig auskühlen lassen.",
+        "Boden mit Kräuterfrischkäse bestreichen, mit Räucherlachs belegen und fest aufrollen.",
+        "Rolle straff in Alufolie wickeln und 8 Stunden kalt stellen."
+      ],
+      "tip": "Gut gekühlt mit einem scharfen Messer in saubere Scheiben schneiden.",
+      "image": "assets/images/lachsrolle.png",
+      "imageAlt": "Aufgeschnittene Spinatrolle mit Kräuterfrischkäse und Räucherlachs",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 2 übernommen. Vorbereitungszeit und Portionenzahl wurden geschätzt; die Gesamtzeit enthält 8 Stunden Kühlzeit. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "schinkenrolle",
+      "recipeNumber": 5,
+      "name": "Schinkenrolle",
+      "description": "Herzhafte Spinat-Käse-Rolle mit Kräuterfrischkäse und Schinken.",
+      "prepTime": "20 Min.",
+      "cookTime": "15 Min.",
+      "totalTime": "8 Std. 35 Min.",
+      "servings": 8,
+      "yield": "1 Rolle",
+      "difficulty": "Einfach",
+      "tags": ["schinken", "spinat", "party", "kalt"],
+      "ingredients": [
+        { "amount": "200 g", "item": "Schinken" },
+        { "amount": "180 g", "item": "Rahmspinat" },
+        { "amount": "200 g", "item": "Käse, gerieben" },
+        { "amount": "200 g", "item": "Kräuterfrischkäse" },
+        { "amount": "2", "item": "Eier" }
+      ],
+      "steps": [
+        "Rahmspinat auftauen und mit den Eiern verrühren.",
+        "Masse auf einem mit Backpapier belegten Backblech verteilen und mit dem geriebenen Käse bestreuen.",
+        "Bei 200 °C etwa 15 Minuten backen, bis der Käse gebräunt ist, anschließend vollständig auskühlen lassen.",
+        "Boden mit Kräuterfrischkäse bestreichen, mit Schinken belegen und fest aufrollen.",
+        "Rolle straff in Alufolie wickeln und 8 Stunden kalt stellen."
+      ],
+      "tip": "Gut gekühlt mit einem scharfen Messer in saubere Scheiben schneiden.",
+      "image": "assets/images/schinkenrolle.png",
+      "imageAlt": "Aufgeschnittene Spinatrolle mit Kräuterfrischkäse und Schinken",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 2 übernommen. Vorbereitungszeit und Portionenzahl wurden geschätzt; die Gesamtzeit enthält 8 Stunden Kühlzeit. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "satt-brot",
+      "recipeNumber": 6,
+      "name": "Satt-Brot",
+      "description": "Kräftiges Mischbrot aus Weizen-, Dinkel- und Roggenmehl.",
+      "prepTime": "20 Min.",
+      "cookTime": "40 Min.",
+      "totalTime": "2 Std.",
+      "servings": 12,
+      "yield": "1 Brot",
+      "difficulty": "Mittel",
+      "tags": ["brot", "hefeteig", "weizen", "roggen"],
+      "ingredients": [
+        { "amount": "520 ml", "item": "Wasser, lauwarm" },
+        { "amount": "30 g", "item": "frische Hefe, zerbröselt" },
+        { "amount": "1 TL", "item": "Zucker" },
+        { "amount": "450 g", "item": "Weizenmehl Type 550" },
+        { "amount": "100 g", "item": "Dinkelmehl Type 630" },
+        { "amount": "200 g", "item": "Roggenmehl Type 1150" },
+        { "amount": "1 EL", "item": "Salz" }
+      ],
+      "steps": [
+        "Hefe und Zucker im lauwarmen Wasser auflösen.",
+        "Alle Mehlsorten mit dem Salz mischen, Hefewasser zugeben und zu einem glatten Teig kneten.",
+        "Teig abgedeckt etwa 60 Minuten gehen lassen, bis sich sein Volumen deutlich vergrößert hat.",
+        "Teig zu einem runden Brot formen, auf ein Backblech setzen und nochmals etwa 20 Minuten ruhen lassen. Backofen auf 240 °C Ober-/Unterhitze vorheizen.",
+        "Brot etwa 40 Minuten goldbraun backen und auf einem Gitter auskühlen lassen."
+      ],
+      "tip": "Schmeckt pur oder mit Butter, Salz und Schnittlauch.",
+      "image": "assets/images/satt-brot.png",
+      "imageAlt": "Rustikales rundes Mischbrot mit kräftiger goldbrauner Kruste",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus Nutzerfoto 3 übernommen. Die Quelle nennt nur Zutaten und Backangabe; Kneten, Gehzeiten und Formen wurden als notwendige Arbeitsschritte ergänzt. Vorbereitungszeit und Portionenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "apfel-crumble",
+      "recipeNumber": 7,
+      "name": "Apfel-Crumble",
+      "description": "Säuerliche Äpfel mit Zimt und einer goldbraunen Butterstreuseldecke.",
+      "prepTime": "25 Min.",
+      "cookTime": "35 Min.",
+      "totalTime": "1 Std.",
+      "servings": 8,
+      "difficulty": "Einfach",
+      "tags": ["dessert", "apfel", "streusel", "backen"],
+      "ingredients": [
+        { "group": "Apfelfüllung", "amount": "1,5 kg", "item": "säuerliche Äpfel" },
+        { "group": "Apfelfüllung", "amount": "2 EL", "item": "Zucker" },
+        { "group": "Apfelfüllung", "amount": "1 TL", "item": "Zimt" },
+        { "group": "Apfelfüllung", "amount": "1", "item": "Zitrone, Saft" },
+        { "group": "Apfelfüllung", "amount": "1 Prise", "item": "gemahlene Nelken" },
+        { "group": "Streusel", "amount": "250 g", "item": "Mehl" },
+        { "group": "Streusel", "amount": "150 g", "item": "Butter" },
+        { "group": "Streusel", "amount": "150 g", "item": "Zucker" }
+      ],
+      "steps": [
+        "Äpfel schälen, raspeln oder achteln und in dünne Scheiben schneiden.",
+        "Äpfel mit Zitronensaft, Zucker, Zimt und Nelken mischen und kurz ziehen lassen.",
+        "Mehl, Butter und Zucker mit den Händen zu Streuseln verkneten.",
+        "Eine Auflauf- oder Backform einfetten, Äpfel samt Saft darin verteilen und vollständig mit Streuseln bedecken.",
+        "Im auf 180 °C vorgeheizten Backofen etwa 35 Minuten backen, bis die Streusel goldbraun sind."
+      ],
+      "tip": "Warm mit einer Kugel Vanilleeis servieren.",
+      "image": "assets/images/apfel-crumble.png",
+      "imageAlt": "Warmer Apfel-Crumble mit goldbraunen Streuseln und Vanilleeis",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 5 übernommen. Backdauer, Vorbereitungszeit und Portionenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "donauwelle",
+      "recipeNumber": 8,
+      "name": "Donauwelle",
+      "description": "Klassischer Blechkuchen mit Kirschen, Vanillecreme und Schokoladenglasur.",
+      "prepTime": "1 Std.",
+      "cookTime": "30 Min.",
+      "totalTime": "2 Std. 30 Min.",
+      "servings": 24,
+      "yield": "1 Blech",
+      "cardPages": 2,
+      "difficulty": "Mittel",
+      "tags": ["kuchen", "blechkuchen", "kirschen", "schokolade"],
+      "ingredients": [
+        { "group": "Rührteig", "amount": "250 g", "item": "Mehl" },
+        { "group": "Rührteig", "amount": "250 g", "item": "Zucker" },
+        { "group": "Rührteig", "amount": "375 g", "item": "Margarine, z. B. Sanella" },
+        { "group": "Rührteig", "amount": "7", "item": "Eier" },
+        { "group": "Rührteig", "amount": "2 TL", "item": "Backpulver" },
+        { "group": "Rührteig", "amount": "1 EL", "item": "Mandeln, gehackt" },
+        { "group": "Rührteig", "amount": "2 EL", "item": "Kakao" },
+        { "group": "Rührteig", "amount": "2–3 EL", "item": "Milch" },
+        { "group": "Rührteig", "amount": "1 Glas", "item": "Sauerkirschen, 370 g Abtropfgewicht" },
+        { "group": "Creme", "amount": "1 Päckchen", "item": "Vanillepuddingpulver" },
+        { "group": "Creme", "amount": "500 ml", "item": "Milch" },
+        { "group": "Creme", "amount": "1 EL", "item": "Zucker" },
+        { "group": "Creme", "amount": "1 Päckchen", "item": "Vanillezucker" },
+        { "group": "Creme", "amount": "150 g", "item": "Margarine, z. B. Sanella" },
+        { "group": "Creme", "amount": "4 EL", "item": "Puderzucker" },
+        { "group": "Glasur", "amount": "200 g", "item": "dunkle Kuvertüre" },
+        { "group": "Glasur", "amount": "40 g", "item": "Kokosfett" }
+      ],
+      "steps": [
+        "Margarine und Zucker cremig rühren, Eier einzeln zugeben. Mehl und Backpulver mischen und unterrühren.",
+        "Teig halbieren. Eine Hälfte mit Mandeln, die andere mit Kakao und Milch verrühren. Ein tiefes Blech fetten, erst hellen, dann dunklen Teig aufstreichen und abgetropfte Kirschen darauf verteilen.",
+        "Bei 175 °C etwa 30 Minuten backen und im Blech vollständig auskühlen lassen.",
+        "Puddingpulver mit 4 EL Milch glatt rühren. Übrige Milch mit Zucker und Vanillezucker aufkochen, Pulver einrühren, nochmals aufkochen und unter gelegentlichem Rühren abkühlen lassen.",
+        "Weiche Margarine mit Puderzucker schaumig schlagen, Pudding esslöffelweise einrühren, Creme auf den Kuchen streichen und kalt stellen.",
+        "Kuvertüre und Kokosfett im heißen Wasserbad schmelzen, verrühren und aufstreichen. In die noch feuchte Glasur mit einer Gabel ein Wellenmuster ziehen."
+      ],
+      "tip": "Pudding und Margarine sollten beim Verrühren die gleiche Temperatur haben.",
+      "image": "assets/images/donauwelle.png",
+      "imageAlt": "Donauwellen-Schnitte mit Marmorboden, Kirschen, Vanillecreme und Schokoladenglasur",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 6 übernommen. Vorbereitungs-, Abkühl- und Gesamtzeit sowie Portionenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "apfelkuchen-mit-sahne-und-eierlikoer",
+      "recipeNumber": 9,
+      "name": "Apfelkuchen mit Sahne und Eierlikör",
+      "description": "Saftiger Apfel-Pudding-Kuchen mit Sahnehaube, Mandeln und Eierlikör.",
+      "prepTime": "50 Min.",
+      "cookTime": "1 Std.",
+      "totalTime": "3 Std.",
+      "servings": 12,
+      "difficulty": "Mittel",
+      "tags": ["kuchen", "apfel", "eierlikör", "sahne"],
+      "ingredients": [
+        { "group": "Mürbeteig", "amount": "200 g", "item": "Mehl" },
+        { "group": "Mürbeteig", "amount": "70 g", "item": "Zucker" },
+        { "group": "Mürbeteig", "amount": "70 g", "item": "Butter" },
+        { "group": "Mürbeteig", "amount": "1", "item": "Ei" },
+        { "group": "Mürbeteig", "amount": "1 1/2 TL", "item": "Backpulver" },
+        { "group": "Belag", "amount": "500 ml", "item": "Apfelsaft" },
+        { "group": "Belag", "amount": "250 ml", "item": "Weißwein" },
+        { "group": "Belag", "amount": "3 EL", "item": "Zucker" },
+        { "group": "Belag", "amount": "2 Päckchen", "item": "Vanillepuddingpulver" },
+        { "group": "Belag", "amount": "ca. 1,5 kg", "item": "Äpfel" },
+        { "group": "Belag", "amount": "2 Becher", "item": "Sahne" },
+        { "group": "Belag", "amount": "nach Geschmack", "item": "Eierlikör" },
+        { "group": "Belag", "amount": "nach Geschmack", "item": "Mandelblättchen" }
+      ],
+      "steps": [
+        "Aus Mehl, Zucker, Butter, Ei und Backpulver einen Mürbeteig herstellen und kalt stellen.",
+        "Aus Apfelsaft, Weißwein, Zucker und Puddingpulver einen Pudding kochen. Fein geschnittene Äpfel unterheben.",
+        "Mürbeteig in einer Springform als Boden mit Rand auslegen und den Apfelpudding darauf verteilen.",
+        "Im auf 200 °C vorgeheizten Backofen etwa 60 Minuten backen und in der Form vollständig auskühlen lassen.",
+        "Sahne steif schlagen, auf den Kuchen streichen und mit Mandelblättchen verzieren. Eierlikör in die Mitte gießen."
+      ],
+      "tip": "Den Kuchen vor dem Anschneiden gut durchkühlen lassen.",
+      "image": "assets/images/apfelkuchen-mit-sahne-und-eierlikoer.png",
+      "imageAlt": "Apfelkuchen mit Sahnehaube, Mandelblättchen und Eierlikör",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 7 übernommen. Die Quelle nennt keine Mengen für Eierlikör und Mandelblättchen. Vorbereitungs-, Abkühl- und Gesamtzeit sowie Portionenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "bienenstich",
+      "recipeNumber": 10,
+      "name": "Bienenstich",
+      "description": "Hefekuchen mit karamellisierter Mandelkruste und lockerer Vanillecreme.",
+      "prepTime": "1 Std.",
+      "cookTime": "30 Min.",
+      "totalTime": "3 Std.",
+      "servings": 12,
+      "cardPages": 2,
+      "difficulty": "Anspruchsvoll",
+      "tags": ["kuchen", "hefeteig", "mandeln", "creme"],
+      "ingredients": [
+        { "group": "Hefeteig", "amount": "330 g", "item": "Mehl" },
+        { "group": "Hefeteig", "amount": "130 ml", "item": "Milch, lauwarm" },
+        { "group": "Hefeteig", "amount": "40 g", "item": "Butter" },
+        { "group": "Hefeteig", "amount": "40 g", "item": "Zucker" },
+        { "group": "Hefeteig", "amount": "30 g", "item": "Vollei" },
+        { "group": "Hefeteig", "amount": "1 Prise", "item": "Salz" },
+        { "group": "Hefeteig", "amount": "20 g", "item": "Hefe" },
+        { "group": "Hefeteig", "amount": "1/2 Zitrone", "item": "abgeriebene Schale" },
+        { "group": "Belag", "amount": "70 ml", "item": "Milch" },
+        { "group": "Belag", "amount": "70 g", "item": "Butter" },
+        { "group": "Belag", "amount": "25 g", "item": "Honig" },
+        { "group": "Belag", "amount": "75 g", "item": "Zucker" },
+        { "group": "Belag", "amount": "etwas", "item": "Vanillinzucker" },
+        { "group": "Belag", "amount": "140 g", "item": "Mandelblättchen" },
+        { "group": "Creme", "amount": "1 Päckchen", "item": "Vanillepuddingpulver" },
+        { "group": "Creme", "amount": "125 g", "item": "Butter" },
+        { "group": "Creme", "amount": "1 Becher", "item": "Sahne" },
+        { "group": "Creme", "amount": "etwas", "item": "Zucker" }
+      ],
+      "steps": [
+        "Aus den Teigzutaten einen Hefeteig herstellen und 20 Minuten ruhen lassen. Ausrollen, in eine Springform legen, gründlich einstechen und nochmals ruhen lassen.",
+        "Milch, Butter, Honig, Zucker und Vanillinzucker unter Rühren aufkochen und 3–4 Minuten köcheln. Mandeln einrühren, sofort auf dem Hefeteig verteilen und 30–40 Minuten gehen lassen.",
+        "Bei 190 °C etwa 30 Minuten backen. Falls der Belag zu schnell bräunt, mit Alufolie abdecken. Vollständig auskühlen lassen.",
+        "Vanillepudding nach Packungsangabe zubereiten und abkühlen lassen. Butter, Zucker und Pudding verrühren, steif geschlagene Sahne unterheben.",
+        "Kuchen waagerecht durchschneiden und den Deckel in mindestens 12 Stücke teilen. Creme auf den Boden streichen, Deckelstücke auflegen und kalt stellen."
+      ],
+      "tip": "Den Mandel-Deckel vor dem Auflegen in Stücke schneiden, damit die Creme beim Portionieren nicht herausgedrückt wird.",
+      "image": "assets/images/bienenstich.png",
+      "imageAlt": "Bienenstich-Schnitte mit Vanillecreme und karamellisierter Mandelkruste",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 8 übernommen. Vorbereitungs-, Abkühl- und Gesamtzeit sowie Portionenzahl wurden geschätzt. Die für den Pudding nötige Flüssigkeit richtet sich nach der Packungsangabe. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "kirsch-kaesekuchen",
+      "recipeNumber": 11,
+      "name": "Kirsch-Käsekuchen",
+      "description": "Blechkuchen mit Mürbeteig, Quarkcreme, Sauerkirschen und Zimtstreuseln.",
+      "prepTime": "1 Std.",
+      "cookTime": "45 Min.",
+      "totalTime": "2 Std. 30 Min.",
+      "servings": 24,
+      "yield": "1 Blech",
+      "cardPages": 2,
+      "difficulty": "Mittel",
+      "tags": ["käsekuchen", "kirschen", "blechkuchen", "streusel"],
+      "ingredients": [
+        { "group": "Mürbeteig", "amount": "375 g", "item": "Mehl" },
+        { "group": "Mürbeteig", "amount": "100 g", "item": "Zucker" },
+        { "group": "Mürbeteig", "amount": "175 g", "item": "Butter" },
+        { "group": "Mürbeteig", "amount": "2", "item": "Eier" },
+        { "group": "Mürbeteig", "amount": "1 TL", "item": "Backpulver" },
+        { "group": "Quarkcreme", "amount": "500 ml", "item": "Milch" },
+        { "group": "Quarkcreme", "amount": "175 ml", "item": "Wasser" },
+        { "group": "Quarkcreme", "amount": "4 EL", "item": "Zucker" },
+        { "group": "Quarkcreme", "amount": "750 g", "item": "Magerquark" },
+        { "group": "Quarkcreme", "amount": "2 Päckchen", "item": "Sahnepuddingpulver" },
+        { "group": "Quarkcreme", "amount": "250 g", "item": "Zucker" },
+        { "group": "Quarkcreme", "amount": "2 Päckchen", "item": "Vanillezucker" },
+        { "group": "Quarkcreme", "amount": "1 Glas", "item": "Sauerkirschen, abgetropft" },
+        { "group": "Streusel", "amount": "175 g", "item": "Mehl" },
+        { "group": "Streusel", "amount": "125 g", "item": "Zucker" },
+        { "group": "Streusel", "amount": "125 g", "item": "Butter" },
+        { "group": "Streusel", "amount": "nach Geschmack", "item": "Zimt" }
+      ],
+      "steps": [
+        "Aus Mehl, Zucker, Butter, Eiern und Backpulver einen Mürbeteig herstellen.",
+        "Milch, Wasser, 4 EL Zucker und Puddingpulver zu einem festen Pudding kochen und unter Rühren abkühlen lassen. Magerquark, 250 g Zucker und Vanillezucker einrühren.",
+        "Für die Streusel Mehl, Zucker, Butter und Zimt krümelig verkneten.",
+        "Mürbeteig ausrollen und in ein tiefes Backblech legen. Quarkmasse, abgetropfte Kirschen und zuletzt Streusel darauf verteilen.",
+        "Im auf 225 °C vorgeheizten Backofen etwa 45 Minuten backen und vollständig auskühlen lassen."
+      ],
+      "tip": "Vor dem Schneiden vollständig auskühlen lassen, damit die Quarkcreme fest wird.",
+      "image": "assets/images/kirsch-kaesekuchen.png",
+      "imageAlt": "Kirsch-Käsekuchen vom Blech mit Quarkcreme und goldbraunen Streuseln",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 9 übernommen. Die Quelle nennt für Zimt und das Kirschglas keine genaue Menge. Vorbereitungs-, Abkühl- und Gesamtzeit sowie Portionenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "erdbeer-joghurtschnitte",
+      "recipeNumber": 12,
+      "name": "Erdbeer-Joghurtschnitte",
+      "description": "Luftiger Biskuit mit einer kühlen Erdbeer-Joghurt-Sahne-Füllung.",
+      "prepTime": "1 Std.",
+      "cookTime": "10 Min.",
+      "totalTime": "4 Std.",
+      "servings": 20,
+      "yield": "1 Blech",
+      "difficulty": "Mittel",
+      "tags": ["kuchen", "erdbeeren", "joghurt", "blechkuchen"],
+      "ingredients": [
+        { "group": "Biskuit", "amount": "4", "item": "Eiweiß" },
+        { "group": "Biskuit", "amount": "150 g", "item": "Zucker" },
+        { "group": "Biskuit", "amount": "4", "item": "Eigelb" },
+        { "group": "Biskuit", "amount": "100 g", "item": "Mehl" },
+        { "group": "Biskuit", "amount": "50 g", "item": "Speisestärke" },
+        { "group": "Füllung", "amount": "10 Blatt", "item": "Gelatine" },
+        { "group": "Füllung", "amount": "5 Becher", "item": "Natur- oder Erdbeerjoghurt" },
+        { "group": "Füllung", "amount": "500 g", "item": "Erdbeeren" },
+        { "group": "Füllung", "amount": "1 Becher", "item": "Sahne" },
+        { "group": "Füllung", "amount": "nach Geschmack", "item": "Zucker" }
+      ],
+      "steps": [
+        "Aus Eiweiß, Zucker, Eigelb, Mehl und Stärke einen Biskuitteig herstellen und gleichmäßig auf ein mit gefettetem Backpapier ausgelegtes Blech streichen.",
+        "Auf mittlerer Schiene bei 200 °C etwa 8–10 Minuten backen, vom Blech lösen und vollständig abkühlen lassen.",
+        "Gelatine einweichen und auflösen. Joghurt mit 300 g vorbereiteten Erdbeeren pürieren, Gelatine und Zucker nach Geschmack einrühren und kalt stellen.",
+        "Sobald die Masse zu gelieren beginnt, Sahne steif schlagen und unterheben.",
+        "Biskuitplatte quer halbieren. Eine Hälfte auf Alufolie setzen, rundum etwa 8 cm Folie überstehen lassen und daraus einen 4 cm hohen Rand formen.",
+        "Joghurtmasse einfüllen, glatt streichen und die übrigen 200 g Erdbeeren hineindrücken. Zweite Biskuitplatte auflegen, leicht andrücken und mehrere Stunden kalt stellen."
+      ],
+      "tip": "Mindestens 3 Stunden, am besten über Nacht, gut durchkühlen lassen.",
+      "image": "assets/images/erdbeer-joghurtschnitte.png",
+      "imageAlt": "Erdbeer-Joghurtschnitte mit Biskuit, rosa Joghurtcreme und Erdbeerstücken",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 10 übernommen. Bechergrößen sind in der Quelle nicht angegeben. Vorbereitungs-, Kühl- und Gesamtzeit sowie Portionenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "himbeerpuddingkuchen",
+      "recipeNumber": 13,
+      "name": "Himbeerpuddingkuchen",
+      "titleLines": ["Himbeer-", "Pudding-", "Kuchen"],
+      "description": "Cremiger Vanille-Schmand-Kuchen mit Himbeeren und rotem Tortenguss.",
+      "prepTime": "45 Min.",
+      "cookTime": "45–60 Min.",
+      "totalTime": "3 Std.",
+      "servings": 12,
+      "difficulty": "Mittel",
+      "tags": ["kuchen", "himbeeren", "pudding", "schmand"],
+      "ingredients": [
+        { "group": "Mürbeteig", "amount": "1", "item": "Ei" },
+        { "group": "Mürbeteig", "amount": "125 g", "item": "Zucker" },
+        { "group": "Mürbeteig", "amount": "125 g", "item": "Butter" },
+        { "group": "Mürbeteig", "amount": "1 Päckchen", "item": "Vanillezucker" },
+        { "group": "Mürbeteig", "amount": "250 g", "item": "Mehl" },
+        { "group": "Mürbeteig", "amount": "½ Päckchen", "item": "Backpulver" },
+        { "group": "Füllung", "amount": "2 Päckchen", "item": "Vanillepuddingpulver" },
+        { "group": "Füllung", "amount": "500 ml", "item": "Milch" },
+        { "group": "Füllung", "amount": "3 Becher", "item": "Schmand" },
+        { "group": "Füllung", "amount": "½ EL", "item": "Zitronensaft" },
+        { "group": "Füllung", "amount": "200 g", "item": "Puderzucker" },
+        { "group": "Belag", "amount": "1 Packung", "item": "Tiefkühlhimbeeren" },
+        { "group": "Belag", "amount": "1 Päckchen", "item": "roter Tortenguss" }
+      ],
+      "steps": [
+        "Aus Ei, Zucker, Butter, Vanillezucker, Mehl und Backpulver einen Mürbeteig herstellen.",
+        "Ein Päckchen Vanillepuddingpulver mit 500 ml Milch aufkochen und unter ständigem Rühren vollständig abkühlen lassen.",
+        "Schmand und Zitronensaft zugeben und mit dem Schneebesen glatt rühren. Puderzucker und das zweite Päckchen Puddingpulver unterheben.",
+        "Eine Springform fetten und Boden sowie Rand mit dem Mürbeteig auslegen. Die Füllung hineingießen und glatt streichen.",
+        "Die gefrorenen Himbeeren darauf verteilen und auf mittlerer Schiene bei 175 °C etwa 45–60 Minuten backen.",
+        "Den Tortenguss nach Packungsanleitung zubereiten, noch auf dem heißen Kuchen verteilen und den Kuchen sofort kalt stellen."
+      ],
+      "tip": "Der Kuchen schmeckt am besten, wenn er bereits am Vortag gebacken und gut gekühlt wird.",
+      "image": "assets/images/himbeerpuddingkuchen.png",
+      "imageAlt": "Himbeerpuddingkuchen mit cremiger Vanillefüllung, Himbeeren und rotem Tortenguss",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 1 übernommen. Die Quelle nennt für die Tiefkühlhimbeeren und die Becher Schmand keine Packungsgrößen. Vorbereitungs-, Kühl- und Gesamtzeit sowie Portionenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "russischer-zupfkuchen-mit-aprikosen",
+      "recipeNumber": 14,
+      "name": "Russischer Zupfkuchen mit Aprikosen",
+      "description": "Schokoladiger Zupfkuchen mit cremiger Quarkfüllung und Aprikosen.",
+      "prepTime": "50 Min.",
+      "cookTime": "1 Std.",
+      "totalTime": "3 Std.",
+      "servings": 12,
+      "difficulty": "Mittel",
+      "cardPages": 2,
+      "tags": ["kuchen", "quark", "aprikosen", "schokolade"],
+      "ingredients": [
+        { "group": "Mürbeteig", "amount": "300 g", "item": "Mehl" },
+        { "group": "Mürbeteig", "amount": "150 g", "item": "Zucker" },
+        { "group": "Mürbeteig", "amount": "3–4 EL", "item": "Kakao" },
+        { "group": "Mürbeteig", "amount": "1 Prise", "item": "Salz" },
+        { "group": "Mürbeteig", "amount": "1 TL", "item": "Backpulver" },
+        { "group": "Mürbeteig", "amount": "1", "item": "Ei" },
+        { "group": "Mürbeteig", "amount": "200 g", "item": "Butter" },
+        { "group": "Quarkmasse", "amount": "1 Dose (850 ml)", "item": "Aprikosen" },
+        { "group": "Quarkmasse", "amount": "100 g", "item": "Butter" },
+        { "group": "Quarkmasse", "amount": "1 kg", "item": "Magerquark" },
+        { "group": "Quarkmasse", "amount": "200 g", "item": "Zucker" },
+        { "group": "Quarkmasse", "amount": "2 Päckchen", "item": "Vanillezucker" },
+        { "group": "Quarkmasse", "amount": "4", "item": "Eier" },
+        { "group": "Quarkmasse", "amount": "1 Päckchen", "item": "Vanillepuddingpulver" },
+        { "group": "Dekoration", "amount": "100 g", "item": "Schlagsahne" },
+        { "group": "Dekoration", "amount": "nach Belieben", "item": "Puderzucker und Schokoraspel" }
+      ],
+      "steps": [
+        "Mehl, Zucker, Kakao, Salz, Backpulver, Ei und 200 g Butter zu einem Mürbeteig verkneten und etwa 30 Minuten kalt stellen.",
+        "Die Aprikosen abtropfen lassen. 100 g Butter schmelzen und mit Quark, Zucker, einem Päckchen Vanillezucker, Eiern und Puddingpulver verrühren.",
+        "Eine Springform fetten und den Boden mit einem Drittel des Teiges auslegen.",
+        "Die Hälfte des restlichen Teiges zu einer Rolle formen, an den Formrand legen und etwa 4 cm hochdrücken.",
+        "Bis zu 9 Aprikosenhälften auf dem Boden verteilen, die Quarkmasse darüberstreichen und den übrigen Teig in Stücke zupfen und auf dem Belag verteilen.",
+        "Im auf 175 °C vorgeheizten Backofen etwa 1 Stunde backen. 10 Minuten ruhen lassen, aus der Form lösen und vollständig abkühlen lassen.",
+        "Sahne mit dem zweiten Päckchen Vanillezucker steif schlagen und als Tupfen aufspritzen. Mit Aprikosen sowie nach Belieben mit Puderzucker und Schokoraspeln verzieren."
+      ],
+      "tip": "Den Kuchen vor dem Anschneiden vollständig auskühlen lassen, damit die Quarkfüllung fest wird.",
+      "image": "assets/images/russischer-zupfkuchen-mit-aprikosen.png",
+      "imageAlt": "Russischer Zupfkuchen mit heller Quarkfüllung, Schokoteig und Aprikosen",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 2 übernommen. Die Quelle nennt keine Formgröße. Abkühlzeit, Gesamtzeit und Portionenzahl wurden geschätzt. Wegen des Umfangs wird das Rezept auf zwei DIN-A5-Karten verteilt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "faule-weiber-kuchen",
+      "recipeNumber": 15,
+      "name": "Faule-Weiber-Kuchen",
+      "description": "Saftiger Quarkkuchen mit Mandarinen und klarem Tortenguss.",
+      "prepTime": "30 Min.",
+      "cookTime": "50 Min.",
+      "totalTime": "2 Std. 30 Min.",
+      "servings": 12,
+      "difficulty": "Einfach",
+      "tags": ["kuchen", "quark", "mandarinen", "käsekuchen"],
+      "ingredients": [
+        { "group": "Mürbeteig", "amount": "200 g", "item": "Mehl" },
+        { "group": "Mürbeteig", "amount": "75 g", "item": "Zucker" },
+        { "group": "Mürbeteig", "amount": "1", "item": "Ei" },
+        { "group": "Mürbeteig", "amount": "75 g", "item": "Margarine" },
+        { "group": "Mürbeteig", "amount": "1 TL", "item": "Backpulver" },
+        { "group": "Belag", "amount": "500 g", "item": "Quark" },
+        { "group": "Belag", "amount": "2", "item": "Eier" },
+        { "group": "Belag", "amount": "140 g", "item": "Zucker" },
+        { "group": "Belag", "amount": "1 Päckchen", "item": "Vanillepuddingpulver" },
+        { "group": "Belag", "amount": "½ Becher", "item": "Sauerrahm oder Schmand" },
+        { "group": "Belag", "amount": "½ Tasse", "item": "Öl" },
+        { "group": "Belag", "amount": "1½ Tassen", "item": "Milch" },
+        { "group": "Belag", "amount": "1 kleine Dose", "item": "Mandarinen, abgetropft" },
+        { "group": "Belag", "amount": "½ Päckchen", "item": "klarer Tortenguss" }
+      ],
+      "steps": [
+        "Mehl, Zucker, Ei, Margarine und Backpulver zu einem Mürbeteig verkneten und etwa 45 Minuten kalt stellen.",
+        "Quark, Eier und Zucker von Hand verrühren. Puddingpulver, Öl, Sauerrahm und Milch verrühren und unter die Quarkmasse heben.",
+        "Den Mürbeteig ausrollen und in eine Springform geben. Die flüssige Quarkmasse daraufgießen und die Mandarinen darauf verteilen.",
+        "Bei 180 °C etwa 50 Minuten backen und anschließend vollständig auskühlen lassen.",
+        "Den klaren Tortenguss nach Packungsanleitung zubereiten und den ausgekühlten Kuchen damit überziehen."
+      ],
+      "tip": "Die Quarkmasse ist vor dem Backen sehr flüssig, wird beim Backen jedoch fest.",
+      "image": "assets/images/faule-weiber-kuchen.png",
+      "imageAlt": "Faule-Weiber-Kuchen mit cremiger Quarkfüllung, Mandarinen und klarem Guss",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 3 übernommen. Tassen-, Becher- und Packungsgrößen sowie Formgröße sind in der Quelle nicht angegeben. Vorbereitungs-, Abkühl- und Gesamtzeit sowie Portionenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "zimtknoten",
+      "recipeNumber": 16,
+      "name": "Zimtknoten",
+      "description": "Fluffige Hefeknoten mit einer aromatischen Zimt-Vanille-Füllung.",
+      "prepTime": "40 Min.",
+      "cookTime": "12 Min.",
+      "totalTime": "2 Std. 22 Min.",
+      "servings": 15,
+      "yield": "15 Stück",
+      "difficulty": "Mittel",
+      "tags": ["hefegebäck", "zimt", "knoten", "süßes"],
+      "ingredients": [
+        { "group": "Teig", "amount": "500 g", "item": "Mehl" },
+        { "group": "Teig", "amount": "½ Würfel", "item": "frische Hefe" },
+        { "group": "Teig", "amount": "220 ml", "item": "Milch, lauwarm" },
+        { "group": "Teig", "amount": "80 g", "item": "Butter, weich" },
+        { "group": "Teig", "amount": "70 g", "item": "Zucker" },
+        { "group": "Teig", "amount": "1 Prise", "item": "Salz" },
+        { "group": "Füllung", "amount": "150 g", "item": "Butter, warm" },
+        { "group": "Füllung", "amount": "120 g", "item": "Zucker" },
+        { "group": "Füllung", "amount": "2–3 EL", "item": "Zimt" },
+        { "group": "Füllung", "amount": "1", "item": "Vanilleschote, Mark" }
+      ],
+      "steps": [
+        "Die Milch nur lauwarm erhitzen und die Hefe darin unter Rühren auflösen.",
+        "Zucker und weiche Butter zugeben. Mit Mehl und Salz kräftig zu einem geschmeidigen, nicht klebenden Teig verkneten.",
+        "Den Teig abgedeckt an einem warmen Ort mindestens 60 Minuten gehen lassen.",
+        "Für die Füllung warme Butter, Zucker, Zimt und Vanillemark zu einer Creme verrühren.",
+        "Den Teig auf einer bemehlten Arbeitsfläche rechteckig ausrollen, mit der Füllung bestreichen und von links und rechts so übereinanderklappen, dass drei Lagen entstehen.",
+        "Etwa 15 kurze Streifen abschneiden, jeweils zu einer Kordel verdrehen und zu einem Knoten formen. Auf ein mit Backpapier belegtes Blech setzen und abgedeckt weitere 30 Minuten gehen lassen.",
+        "Bei 200 °C Ober-/Unterhitze etwa 12 Minuten backen."
+      ],
+      "tip": "Die Milch darf nur lauwarm sein, damit die Hefe zuverlässig aufgeht.",
+      "image": "assets/images/zimtknoten.png",
+      "imageAlt": "Goldbraun gebackene Zimtknoten mit sichtbaren Zimt-Vanille-Schichten",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 4 übernommen. Die Gesamtzeit wurde aus den angegebenen Geh-, Arbeits- und Backzeiten berechnet. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "cantuccini",
+      "recipeNumber": 17,
+      "name": "Cantuccini",
+      "description": "Knuspriges Mandelgebäck mit Zitrone und Vanille.",
+      "prepTime": "20 Min.",
+      "cookTime": "30 Min.",
+      "totalTime": "12 Std. 50 Min.",
+      "servings": 50,
+      "yield": "5 Rollen",
+      "difficulty": "Einfach",
+      "tags": ["gebäck", "mandeln", "italienisch", "vorrat"],
+      "ingredients": [
+        { "amount": "5", "item": "Eier, Größe M" },
+        { "amount": "400 g", "item": "Puderzucker" },
+        { "amount": "500 g", "item": "Mehl" },
+        { "amount": "1 Päckchen", "item": "Backpulver" },
+        { "amount": "1", "item": "Zitrone, abgeriebene Schale" },
+        { "amount": "4 Päckchen", "item": "Vanillezucker" },
+        { "amount": "500 g", "item": "Mandeln" }
+      ],
+      "steps": [
+        "Eier und Puderzucker schaumig rühren. Mehl mit Backpulver mischen und unterrühren.",
+        "Die Mandeln mit einem Tuch abreiben und zusammen mit Zitronenschale und Vanillezucker mit dem Knethaken unterarbeiten.",
+        "Fünf Rollen formen, auf ein mit Backpapier belegtes Blech setzen und über Nacht trocknen lassen.",
+        "Bei 160 °C etwa 30 Minuten backen und anschließend noch warm in Streifen schneiden."
+      ],
+      "tip": "Das Gebäck unbedingt noch warm schneiden, bevor es vollständig fest und knusprig wird.",
+      "image": "assets/images/cantuccini.png",
+      "imageAlt": "Knusprige goldbraune Cantuccini mit ganzen Mandeln",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 5 übernommen. Die Quelle sieht nur einen Backvorgang vor; diese Angabe wurde unverändert beibehalten. Trocknungsdauer, Gesamtzeit und Stückzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "mango-gurke-avocado-huettensalat",
+      "recipeNumber": 18,
+      "name": "Mango-Gurke-Avocado-Hüttensalat",
+      "description": "Frischer, proteinreicher Salat mit Mango, Avocado und Hüttenkäse.",
+      "prepTime": "10 Min.",
+      "cookTime": "0 Min.",
+      "totalTime": "10 Min.",
+      "servings": 1,
+      "difficulty": "Einfach",
+      "tags": ["salat", "high protein", "mealprep", "schnell"],
+      "ingredients": [
+        { "amount": "½", "item": "Salatgurke" },
+        { "amount": "½", "item": "Mango" },
+        { "amount": "½", "item": "Avocado" },
+        { "amount": "1–2", "item": "Frühlingszwiebeln" },
+        { "amount": "3 EL (ca. 200 g)", "item": "Hüttenkäse, 0,8 %" },
+        { "amount": "½", "item": "Zitrone, Saft" },
+        { "amount": "nach Geschmack", "item": "Pfeffer, Salz und Chili" }
+      ],
+      "steps": [
+        "Gurke, Mango und Avocado in mundgerechte Würfel schneiden und die Frühlingszwiebeln in feine Ringe schneiden.",
+        "Alles mit dem Hüttenkäse und dem Zitronensaft vorsichtig vermengen.",
+        "Mit Pfeffer, Salz und Chili abschmecken und direkt servieren oder für das Mealprep kalt stellen."
+      ],
+      "tip": "Laut Quelle enthält eine Portion etwa 350 kcal, 19 g Kohlenhydrate, 13 g Fett und 29 g Eiweiß.",
+      "image": "assets/images/mango-gurke-avocado-huettensalat.png",
+      "imageAlt": "Bunter Hüttensalat mit Mango, Gurke, Avocado und Frühlingszwiebeln",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 6 übernommen. Die Quelle nennt keine Zubereitung; die drei zwingend nötigen Arbeitsschritte wurden sparsam ergänzt. Die Mengenangabe '3 EL ca. 200 g' für Hüttenkäse wurde trotz der erkennbaren Abweichung wie angegeben übernommen. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "rhabarberrahmkuchen",
+      "recipeNumber": 19,
+      "name": "Rhabarberrahmkuchen",
+      "titleLines": ["Rhabarber-", "Rahm-", "Kuchen"],
+      "description": "Feiner Rhabarberkuchen mit cremigem Rahmguss und Mandelrand.",
+      "prepTime": "45 Min.",
+      "cookTime": "50 Min.",
+      "totalTime": "3 Std. 35 Min.",
+      "servings": 12,
+      "yield": "1 Springform (28 cm)",
+      "difficulty": "Mittel",
+      "cardPages": 2,
+      "tags": ["kuchen", "rhabarber", "rahm", "mandeln"],
+      "ingredients": [
+        { "group": "Teig", "amount": "100 g", "item": "Butter, kalt" },
+        { "group": "Teig", "amount": "70 g", "item": "Puderzucker" },
+        { "group": "Teig", "amount": "200 g", "item": "Mehl, Type 405" },
+        { "group": "Teig", "amount": "1", "item": "Ei, Größe M" },
+        { "group": "Teig", "amount": "½", "item": "Vanilleschote, Mark" },
+        { "group": "Teig", "amount": "1 Prise", "item": "Salz" },
+        { "group": "Teig", "amount": "3 EL", "item": "gemahlene Mandeln" },
+        { "group": "Teig", "amount": "etwas", "item": "Butter für die Form und Mehl zum Arbeiten" },
+        { "group": "Belag", "amount": "750 g", "item": "Rhabarber" },
+        { "group": "Belag", "amount": "2 TL", "item": "Zucker zum Bestreuen" },
+        { "group": "Belag", "amount": "150 g", "item": "Zucker" },
+        { "group": "Belag", "amount": "3", "item": "Eier, Größe M" },
+        { "group": "Belag", "amount": "200 g", "item": "Sauerrahm" },
+        { "group": "Belag", "amount": "200 g", "item": "Schlagsahne" },
+        { "group": "Belag", "amount": "30 g", "item": "Speisestärke" },
+        { "group": "Belag", "amount": "½", "item": "Vanilleschote, Mark" },
+        { "group": "Belag", "amount": "2 EL", "item": "Zitronensaft" },
+        { "group": "Belag", "amount": "1 Schuss", "item": "Rum" },
+        { "group": "Dekoration", "amount": "50 g", "item": "Mandelblättchen" },
+        { "group": "Dekoration", "amount": "3 EL", "item": "Aprikosenmarmelade" },
+        { "group": "Dekoration", "amount": "etwas", "item": "Puderzucker zum Bestäuben" }
+      ],
+      "steps": [
+        "Butter würfeln und mit Puderzucker, Mehl, Ei, dem Mark einer halben Vanilleschote und Salz rasch zu einem glatten Teig verkneten. In Folie wickeln und mindestens 1 Stunde kalt stellen.",
+        "Eine Springform fetten und den Backofen auf 170 °C Ober-/Unterhitze vorheizen.",
+        "Den Teig etwas größer als die Form ausrollen, Boden und Rand damit auskleiden und den Teigboden mit den gemahlenen Mandeln bestreuen.",
+        "Rhabarber waschen, putzen und dicke Stangen längs halbieren. In etwa 3 cm lange Stücke schneiden, mit 2 TL Zucker mischen und 10 Minuten stehen lassen.",
+        "150 g Zucker, Eier, Sauerrahm, Schlagsahne, Speisestärke, das übrige Vanillemark, Zitronensaft und Rum glatt verrühren.",
+        "Rhabarber auf dem Teig verteilen, den Rahmguss darübergießen und bei 170 °C etwa 50 Minuten backen. Anschließend vollständig auskühlen lassen.",
+        "Mandelblättchen ohne Fett goldbraun rösten. Den Kuchenrand mit Aprikosenmarmelade bestreichen, mit den Mandeln bedecken und den Kuchen mit Puderzucker bestäuben."
+      ],
+      "tip": "Nach Wunsch zusätzlich mit 300 g dünn geschnittenen Erdbeeren belegen und mit Aprikosenmarmelade bestreichen.",
+      "image": "assets/images/rhabarberrahmkuchen.png",
+      "imageAlt": "Rhabarberrahmkuchen mit cremigem Guss, rosa Rhabarberstücken und Mandelrand",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 7 übernommen. Vorbereitungs-, Abkühl- und Gesamtzeit sowie Portionenzahl wurden geschätzt. Wegen des Umfangs wird das Rezept auf zwei DIN-A5-Karten verteilt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "buttermilchbrot",
+      "recipeNumber": 20,
+      "name": "Buttermilchbrot",
+      "description": "Saftiges Dinkelbrot mit Buttermilch, Kürbis- und Sonnenblumenkernen.",
+      "prepTime": "20 Min.",
+      "cookTime": "1 Std.",
+      "totalTime": "2 Std. 20 Min.",
+      "servings": 14,
+      "yield": "1 Brot",
+      "difficulty": "Mittel",
+      "tags": ["brot", "dinkel", "buttermilch", "körner"],
+      "ingredients": [
+        { "amount": "300 g", "item": "Buttermilch" },
+        { "amount": "10 g", "item": "frische Hefe" },
+        { "amount": "1 TL", "item": "Ahornsirup" },
+        { "amount": "250 g", "item": "Dinkelmehl, Type 630" },
+        { "amount": "250 g", "item": "Dinkelmehl, Type 1050" },
+        { "amount": "1 TL", "item": "Salz" },
+        { "amount": "2 EL", "item": "Kürbiskerne" },
+        { "amount": "4 EL", "item": "Sonnenblumenkerne" }
+      ],
+      "steps": [
+        "Alle Zutaten zu einem gleichmäßigen Hefeteig verkneten.",
+        "Den Teig abgedeckt mindestens 1 Stunde ruhen lassen.",
+        "Den Teig auf eine bemehlte Arbeitsfläche geben und rund wirken, ohne zu viel Luft aus dem aufgegangenen Teig zu drücken.",
+        "Den Teigling in einen gefetteten Dutch Oven legen und den Deckel aufsetzen. Ein Backblech auf die unterste Schiene schieben und den Topf quer daraufstellen.",
+        "Bei 240 °C Ober-/Unterhitze 60 Minuten backen und nach 55 Minuten den Deckel abnehmen. Das Brot sofort auf ein Kuchengitter stürzen und auskühlen lassen."
+      ],
+      "tip": "Beim Rundwirken nur behutsam arbeiten, damit möglichst viel Luft im Teig bleibt.",
+      "image": "assets/images/buttermilchbrot.png",
+      "imageAlt": "Rundes Buttermilchbrot mit knuspriger Kruste und sichtbaren Kürbiskernen",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 1 übernommen. Topfgröße, Vorbereitungs- und Gesamtzeit sowie Scheibenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "dinkelvollkornbrot",
+      "recipeNumber": 21,
+      "name": "Dinkelvollkornbrot",
+      "description": "Kräftiges Vollkornbrot mit Körnermix, Mandeln und Apfelessig.",
+      "prepTime": "15 Min.",
+      "cookTime": "1 Std.",
+      "totalTime": "1 Std. 15 Min.",
+      "servings": 16,
+      "yield": "1 Brot",
+      "difficulty": "Einfach",
+      "tags": ["brot", "dinkel", "vollkorn", "körner"],
+      "ingredients": [
+        { "amount": "15 g", "item": "frische Hefe" },
+        { "amount": "500 ml", "item": "Wasser, lauwarm" },
+        { "amount": "2½ TL", "item": "Salz" },
+        { "amount": "2½ EL", "item": "Apfelessig" },
+        { "amount": "250 g", "item": "Körnermix" },
+        { "amount": "150 g", "item": "Mandeln, gehackt" },
+        { "amount": "500 g", "item": "Dinkelvollkornmehl" },
+        { "amount": "nach Belieben", "item": "Haferflocken und Sonnenblumenkerne für den Topfboden" }
+      ],
+      "steps": [
+        "Salz, Apfelessig, Körnermix, Mandeln und Dinkelvollkornmehl in eine Rührschüssel geben.",
+        "Die Hefe im etwa 37 °C warmen Wasser auflösen, zu den übrigen Zutaten geben und etwa 5 Minuten kneten.",
+        "Den Teig in einen gefetteten Dutch Oven geben. Nach Belieben vorher Haferflocken und Sonnenblumenkerne auf den Topfboden streuen.",
+        "Den geschlossenen Topf auf dem Gitterrost in den kalten Backofen auf die unterste Schiene stellen und bei 230 °C Ober-/Unterhitze 60 Minuten backen."
+      ],
+      "tip": "Der Topf kommt in den kalten Backofen; ein vorheriges Aufheizen ist nicht nötig.",
+      "image": "assets/images/dinkelvollkornbrot.png",
+      "imageAlt": "Dunkles Dinkelvollkornbrot mit Körnern und gehackten Mandeln",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 2 übernommen. Für die optionalen Haferflocken und Sonnenblumenkerne nennt die Quelle keine Mengen. Topfgröße, Scheibenzahl und Vorbereitungszeit wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "joghurt-krustenbrot",
+      "recipeNumber": 22,
+      "name": "Joghurt-Krustenbrot",
+      "description": "Aromatisches Weizen-Roggen-Brot mit Joghurt und kräftiger Kruste.",
+      "prepTime": "30 Min.",
+      "cookTime": "50 Min.",
+      "totalTime": "2 Std. 50 Min.",
+      "servings": 14,
+      "yield": "1 Brot",
+      "difficulty": "Mittel",
+      "tags": ["brot", "joghurt", "roggen", "krustenbrot"],
+      "ingredients": [
+        { "amount": "350 g", "item": "Mehl, Type 550 oder 630" },
+        { "amount": "150 g", "item": "Roggenmehl, Type 1150" },
+        { "amount": "100 g", "item": "Naturjoghurt" },
+        { "amount": "2 EL", "item": "weißer Balsamico" },
+        { "amount": "2 TL", "item": "Salz" },
+        { "amount": "1 TL", "item": "Honig" },
+        { "amount": "240 g", "item": "Wasser, warm" },
+        { "amount": "10 g", "item": "frische Hefe" },
+        { "amount": "etwas", "item": "Öl zum Fetten" }
+      ],
+      "steps": [
+        "Mehl, Roggenmehl, Joghurt, Balsamico, Salz und Honig in eine große Schüssel geben.",
+        "Die Hefe in höchstens 40 °C warmem Wasser auflösen, zugeben und etwa 3 Minuten zu einem glatten Teig kneten.",
+        "Den Teig abgedeckt 90 Minuten gehen lassen.",
+        "Den Teig auf einer bemehlten Arbeitsfläche zu einer Kugel formen, etwas flach und länglich ziehen und gedanklich dritteln. Das linke Drittel über die Mitte und anschließend das rechte Drittel darüberlegen.",
+        "Den Teig um 90 Grad drehen und erneut falten. Dies drei- bis viermal wiederholen, bis der Teig spürbar Spannung bekommt.",
+        "Den Teig mit der Naht nach unten in eine gefettete und bemehlte Form setzen. Den Backofen auf 240 °C Ober-/Unterhitze vorheizen, den Teig mehrmals einschneiden und mit Deckel auf der untersten Schiene 50 Minuten backen."
+      ],
+      "tip": "Das wiederholte Falten gibt dem Teig Spannung und sorgt für eine gleichmäßige runde Form.",
+      "image": "assets/images/joghurt-krustenbrot.png",
+      "imageAlt": "Rundes Joghurt-Krustenbrot mit bemehlter, kräftig aufgerissener Kruste",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 3 übernommen. Formgröße, Scheibenzahl, Vorbereitungs- und Gesamtzeit wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "friss-dich-dumm-brot",
+      "recipeNumber": 23,
+      "name": "Friss-dich-dumm-Brot",
+      "description": "Rustikales Mischbrot aus Weizen-, Dinkel- und Roggenmehl.",
+      "prepTime": "20 Min.",
+      "cookTime": "1 Std.",
+      "totalTime": "2 Std. 20 Min.",
+      "servings": 16,
+      "yield": "1 Brot",
+      "difficulty": "Mittel",
+      "tags": ["brot", "mischbrot", "römertopf", "hefe"],
+      "ingredients": [
+        { "amount": "520 g", "item": "Wasser, lauwarm" },
+        { "amount": "½ Würfel", "item": "frische Hefe oder 1 Päckchen Trockenhefe" },
+        { "amount": "400 g", "item": "Weizenmehl, Type 550" },
+        { "amount": "100 g", "item": "Dinkelmehl, Type 630" },
+        { "amount": "200 g", "item": "Roggenmehl, Type 1150" },
+        { "amount": "50 g", "item": "Weizenmehl, Type 1050" },
+        { "amount": "3 gestr. TL", "item": "Salz" },
+        { "amount": "1 gestr. TL", "item": "Zucker" }
+      ],
+      "steps": [
+        "Das Wasser auf etwa 37 °C erwärmen und die Hefe darin auflösen.",
+        "Alle übrigen Zutaten zugeben und zu einem klebrigen Teig verrühren.",
+        "Den Teig in eine bemehlte Schüssel füllen und abgedeckt 1 Stunde gehen lassen.",
+        "Den Teig etwa zehnmal falten, zu einem Laib formen und in einen gefetteten Römertopf geben.",
+        "Den geschlossenen Topf in den kalten Backofen stellen und bei 240 °C Ober-/Unterhitze 50 Minuten mit Deckel sowie anschließend 10 Minuten ohne Deckel backen."
+      ],
+      "tip": "Durch das mehrmalige Falten bekommt der weiche Teig genügend Spannung für einen stabilen Laib.",
+      "image": "assets/images/friss-dich-dumm-brot.png",
+      "imageAlt": "Rustikales rundes Mischbrot mit kräftiger Kruste und dekorativem Einschnitt",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 4 übernommen. Topfgröße, Scheibenzahl, Vorbereitungs- und Gesamtzeit wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "mango-salsa",
+      "recipeNumber": 24,
+      "name": "Mango-Salsa",
+      "description": "Fruchtig-frische Salsa mit Mango, Avocado und Kirschtomaten.",
+      "prepTime": "15 Min.",
+      "cookTime": "0 Min.",
+      "totalTime": "15 Min.",
+      "servings": 4,
+      "difficulty": "Einfach",
+      "tags": ["salsa", "mango", "avocado", "beilage"],
+      "ingredients": [
+        { "amount": "1", "item": "reife Mango" },
+        { "amount": "1", "item": "Avocado" },
+        { "amount": "1", "item": "rote Zwiebel" },
+        { "amount": "1 Handvoll", "item": "Kirschtomaten" },
+        { "amount": "½", "item": "Zitrone, Saft" },
+        { "amount": "3 EL", "item": "weißer Balsamico" },
+        { "amount": "2 große Spritzer", "item": "Balsamicocreme" },
+        { "amount": "nach Geschmack", "item": "Salz, Pfeffer und Chiliflocken" }
+      ],
+      "steps": [
+        "Mango, Avocado, rote Zwiebel und Kirschtomaten in kleine Würfel schneiden.",
+        "Mit Zitronensaft beträufeln und kurz ziehen lassen.",
+        "Weißen Balsamico, Salz, Pfeffer und Chiliflocken zugeben, mit Balsamicocreme toppen und alles gut vermischen."
+      ],
+      "tip": "Die Salsa passt laut Quelle besonders gut zu Lachs.",
+      "image": "assets/images/mango-salsa.png",
+      "imageAlt": "Bunte Mango-Salsa mit Avocado, roten Zwiebeln und Kirschtomaten",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 5 übernommen. Die Mengen für weißen Balsamico und Balsamicocreme wurden aus der Zubereitung übernommen. Portionenzahl wurde geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "fantakuchen",
+      "recipeNumber": 25,
+      "name": "Fantakuchen",
+      "description": "Einfacher, lockerer Rührkuchen mit Limonade.",
+      "prepTime": "15 Min.",
+      "cookTime": "50 Min.",
+      "totalTime": "1 Std. 20 Min.",
+      "servings": 12,
+      "difficulty": "Einfach",
+      "tags": ["kuchen", "rührkuchen", "limonade", "einfach"],
+      "ingredients": [
+        { "group": "Rührteig", "amount": "3 Tassen", "item": "Mehl" },
+        { "group": "Rührteig", "amount": "2 Tassen", "item": "Zucker" },
+        { "group": "Rührteig", "amount": "1 Tasse", "item": "Öl" },
+        { "group": "Rührteig", "amount": "4", "item": "Eier" },
+        { "group": "Rührteig", "amount": "1 Prise", "item": "Salz" },
+        { "group": "Rührteig", "amount": "1 Tasse", "item": "Limonade" },
+        { "group": "Rührteig", "amount": "½ Päckchen", "item": "Backpulver" }
+      ],
+      "steps": [
+        "Alle Zutaten zu einem glatten Rührteig verrühren.",
+        "Den Teig in eine gefettete Kuchenform füllen.",
+        "Bei 180 °C etwa 50 Minuten backen und anschließend auskühlen lassen."
+      ],
+      "tip": "Die Quelle verwendet Tassen als Maß; für alle Zutaten dieselbe Tasse verwenden.",
+      "image": "assets/images/fantakuchen.png",
+      "imageAlt": "Goldgelber Fantakuchen in Ringform mit feinporiger Krume",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 6 übernommen. Tassengröße und genaue Limonadensorte sind nicht angegeben. Abkühl- und Gesamtzeit sowie Portionenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "waffeln",
+      "recipeNumber": 26,
+      "name": "Waffeln",
+      "description": "Lockere Butterwaffeln mit Mineralwasser und feiner Zitronennote.",
+      "prepTime": "10 Min.",
+      "cookTime": "20 Min.",
+      "totalTime": "30 Min.",
+      "servings": 8,
+      "yield": "ca. 8 Waffeln",
+      "difficulty": "Einfach",
+      "tags": ["waffeln", "süßes", "schnell", "gebäck"],
+      "ingredients": [
+        { "group": "Waffelteig", "amount": "250 g", "item": "Mehl" },
+        { "group": "Waffelteig", "amount": "100 g", "item": "Zucker" },
+        { "group": "Waffelteig", "amount": "125 g", "item": "Butter" },
+        { "group": "Waffelteig", "amount": "2–3", "item": "Eier" },
+        { "group": "Waffelteig", "amount": "250 ml", "item": "Mineralwasser mit Kohlensäure" },
+        { "group": "Waffelteig", "amount": "etwas", "item": "abgeriebene Zitronenschale" }
+      ],
+      "steps": [
+        "Butter, Zucker und Eier schaumig rühren.",
+        "Zitronenschale und Mehl unterrühren und zum Schluss das Mineralwasser kurz einarbeiten.",
+        "Den Teig portionsweise im Waffeleisen goldbraun ausbacken."
+      ],
+      "tip": "Das Mineralwasser erst zum Schluss kurz unterrühren, damit möglichst viel Kohlensäure im Teig bleibt.",
+      "image": "assets/images/waffeln.png",
+      "imageAlt": "Goldbraune herzförmige Waffeln auf einem weißen Teller",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 7 übernommen. Backzeit, Gesamtzeit und Stückzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "schokobananen",
+      "recipeNumber": 27,
+      "name": "Schokobananen",
+      "description": "Marzipangebäck mit Vanillebuttercreme, Banane und Vollmilchschokolade.",
+      "prepTime": "35 Min.",
+      "cookTime": "15 Min.",
+      "totalTime": "1 Std. 15 Min.",
+      "servings": 6,
+      "yield": "6 Stück",
+      "difficulty": "Mittel",
+      "tags": ["gebäck", "banane", "schokolade", "marzipan"],
+      "ingredients": [
+        { "group": "Teig", "amount": "200 g", "item": "Marzipanrohmasse" },
+        { "group": "Teig", "amount": "1", "item": "Eiweiß" },
+        { "group": "Teig", "amount": "100 g", "item": "Puderzucker" },
+        { "group": "Füllung", "amount": "30–40 g", "item": "Butter" },
+        { "group": "Füllung", "amount": "2–3 EL", "item": "Vanillepudding, zubereitet" },
+        { "group": "Füllung", "amount": "1 EL", "item": "Puderzucker" },
+        { "group": "Füllung", "amount": "3", "item": "Bananen" },
+        { "group": "Füllung", "amount": "etwas", "item": "Zitronensaft" },
+        { "group": "Guss", "amount": "100 g", "item": "Vollmilch-Kuchenglasur" }
+      ],
+      "steps": [
+        "Das Eiweiß leicht aufschlagen und mit Marzipan sowie Puderzucker verkneten.",
+        "Den Teig in einen Spritz- oder Gefrierbeutel füllen und sechs etwa 2 cm breite, bananenförmige Böden auf ein Backblech spritzen.",
+        "Bei 160 °C Umluft oder 180 °C Ober-/Unterhitze etwa 15 Minuten backen, bis die Böden lichtgelb sind. Anschließend auskühlen lassen.",
+        "Butter und Vanillepudding rechtzeitig auf Zimmertemperatur bringen.",
+        "Butter und Puderzucker schaumig und hell rühren. Den Vanillepudding esslöffelweise unterrühren und die Creme auf die Böden spritzen oder streichen.",
+        "Die Bananen längs halbieren, mit Zitronensaft beträufeln und auf die Buttercreme setzen.",
+        "Die Kuchenglasur schmelzen, die Schokobananen vollständig damit überziehen und fest werden lassen."
+      ],
+      "tip": "Die gespritzten Marzipanböden nur etwa 2 cm breit formen, da der Teig beim Backen noch leicht auseinanderläuft.",
+      "image": "assets/images/schokobananen.png",
+      "imageAlt": "Schokobananen mit Marzipanboden, Vanillecreme, Banane und Vollmilchguss",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus den inhaltlich identischen Nutzerfotos 8 und 9 einmalig übernommen. Die im Text zwingend benötigten 3 Bananen und etwas Zitronensaft fehlen in der Zutatenliste der Quelle und wurden ergänzt. Vorbereitungs-, Kühl- und Gesamtzeit wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "mohnzopf",
+      "recipeNumber": 28,
+      "name": "Mohnzopf",
+      "description": "Saftiger Hefezopf mit Mohn, Sultaninen, Zitrone und Rum.",
+      "prepTime": "35 Min.",
+      "cookTime": "40 Min.",
+      "totalTime": "2 Std. 30 Min.",
+      "servings": 14,
+      "yield": "1 Zopf",
+      "difficulty": "Mittel",
+      "tags": ["hefegebäck", "mohn", "zopf", "sultaninen"],
+      "ingredients": [
+        { "group": "Hefeteig", "amount": "500 g", "item": "Mehl" },
+        { "group": "Hefeteig", "amount": "30 g", "item": "frische Hefe" },
+        { "group": "Hefeteig", "amount": "75–100 g", "item": "Zucker" },
+        { "group": "Hefeteig", "amount": "1 Prise", "item": "Salz" },
+        { "group": "Hefeteig", "amount": "125–250 ml", "item": "Milch" },
+        { "group": "Hefeteig", "amount": "80–125 g", "item": "Butter" },
+        { "group": "Hefeteig", "amount": "1", "item": "Ei" },
+        { "group": "Hefeteig", "amount": "nach Geschmack", "item": "Zitronenschale und Rum" },
+        { "group": "Füllung", "amount": "250 g", "item": "Mohn" },
+        { "group": "Füllung", "amount": "100 g", "item": "Sultaninen" },
+        { "group": "Füllung", "amount": "75 g", "item": "Zucker oder Honig" },
+        { "group": "Füllung", "amount": "250 ml", "item": "Milch" },
+        { "group": "Füllung", "amount": "1 EL", "item": "Rum" },
+        { "group": "Füllung", "amount": "nach Geschmack", "item": "abgeriebene Zitronenschale und Zimt" },
+        { "group": "Füllung", "amount": "20 g", "item": "Semmelbrösel" }
+      ],
+      "steps": [
+        "Aus Mehl, Hefe, Zucker, Salz, lauwarmer Milch, Butter, Ei sowie Zitronenschale und Rum einen geschmeidigen Hefeteig herstellen.",
+        "Den Teig abgedeckt gehen lassen, bis er sich deutlich vergrößert hat.",
+        "Für die Füllung Milch mit Zucker oder Honig aufkochen. Mohn und Zitronenschale zugeben und unter Rühren dickbreiig kochen.",
+        "Die Mohnmasse abkühlen lassen und Sultaninen, Rum, Zimt und Semmelbrösel untermischen.",
+        "Den Teig rechteckig ausrollen, mit der Mohnmasse bestreichen und zusammenrollen. Den geformten Zopf abgedeckt erneut sichtbar aufgehen lassen.",
+        "Bei 180 °C etwa 40 Minuten backen und vor dem Anschneiden auskühlen lassen."
+      ],
+      "tip": "Die Mohnfüllung vor dem Aufstreichen vollständig abkühlen lassen, damit der Hefeteig nicht weich wird.",
+      "image": "assets/images/mohnzopf.png",
+      "imageAlt": "Goldbrauner Mohnzopf mit dunkler Mohn-Sultaninen-Füllung und sichtbaren Spiralen",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus Nutzerfoto 10 übernommen. Die für Hefeteig zwingend notwendigen Gehphasen wurden ohne feste Dauer ergänzt, da die Quelle keine Gehzeiten nennt. Vorbereitungs-, Geh-, Gesamtzeit und Scheibenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    }
+  ]
+}

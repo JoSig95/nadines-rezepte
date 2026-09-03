@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Druckbare DIN-A5-Rezeptsammlung mit wählbaren Layouts." />
+    <title>Meine Rezeptsammlung</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Meine Rezeptsammlung</p>
+        <h1>Rezepte, die aufs Papier passen.</h1>
+        <p class="intro">Deine persönliche Sammlung im kompakten DIN-A5-Kochkartenformat. Übersichtlich beim Kochen und direkt druckbereit.</p>
+      </div>
+      <div class="header-actions" aria-label="Ansichtsaktionen">
+        <span class="a5-badge">DIN A4 quer · Platz für 2 × DIN A5</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="print-overview" aria-labelledby="print-overview-title">
+        <div class="print-overview-copy">
+          <p class="eyebrow">Druckbogen</p>
+          <h2 id="print-overview-title">DIN A4 · zwei frei belegbare Seiten</h2>
+          <p>Wähle die linke oder rechte Seite direkt beim angezeigten Rezept.</p>
+        </div>
+        <div class="print-sides" aria-label="Aktuelle Belegung des Druckbogens">
+          <div class="print-side">
+            <span>Links</span>
+            <strong id="print-left-label">Nicht belegt</strong>
+            <button type="button" data-clear-side="left" aria-label="Linke Seite leeren" disabled>×</button>
+          </div>
+          <div class="print-side">
+            <span>Rechts</span>
+            <strong id="print-right-label">Nicht belegt</strong>
+            <button type="button" data-clear-side="right" aria-label="Rechte Seite leeren" disabled>×</button>
+          </div>
+        </div>
+        <button class="print-button" type="button" id="print-selected" disabled>
+          Rezepte drucken
+        </button>
+      </section>
+
+      <section class="preview-area" aria-live="polite">
+        <div class="preview-heading">
+          <p class="preview-kicker">Rezeptkategorien</p>
+          <h2>Sammlung</h2>
+          <p>Öffne eine Kategorie und wähle das gewünschte Rezept aus.</p>
+          <nav class="recipe-list" id="recipe-list" aria-label="Rezepte"></nav>
+        </div>
+        <div class="recipe-workspace">
+          <div id="recipe-controls" class="recipe-controls" aria-live="polite"></div>
+          <div id="recipe-mount" class="recipe-mount"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span>Kompakte Kochkarten · ein einheitlicher Datenstandard</span>
+      <span>Für den Druck „A4 quer“, „Tatsächliche Größe“ und „Farbe“ wählen.</span>
+    </footer>
+
+    <section class="print-sheet" id="print-sheet" aria-hidden="true">
+      <div class="print-slot" id="print-slot-left"></div>
+      <div class="print-slot" id="print-slot-right"></div>
+    </section>
+
+    <script src="data/recipes.js" defer></script>
+    <script src="app.js" defer></script>
+  </body>
+</html>
