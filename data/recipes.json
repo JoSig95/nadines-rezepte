@@ -1126,6 +1126,49 @@
         "url": null,
         "note": "Aus Nutzerfoto 10 übernommen. Die für Hefeteig zwingend notwendigen Gehphasen wurden ohne feste Dauer ergänzt, da die Quelle keine Gehzeiten nennt. Vorbereitungs-, Geh-, Gesamtzeit und Scheibenzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
+    },
+    {
+      "id": "mohn-streuselkuchen-vom-blech",
+      "recipeNumber": 29,
+      "name": "Mohn-Streuselkuchen vom Blech",
+      "description": "Saftiger Mohnkuchen mit cremiger Puddingfüllung und knusprigen Butterstreuseln.",
+      "prepTime": "30 Min.",
+      "cookTime": "30 Min.",
+      "totalTime": "1 Std. 30 Min.",
+      "servings": 24,
+      "yield": "1 Blech (ca. 29 × 42 cm)",
+      "difficulty": "Mittel",
+      "tags": ["kuchen", "mohn", "streusel", "blechkuchen"],
+      "ingredients": [
+        { "group": "Boden & Streusel", "amount": "600 g", "item": "Weizenmehl" },
+        { "group": "Boden & Streusel", "amount": "200 g", "item": "Zucker" },
+        { "group": "Boden & Streusel", "amount": "400 g", "item": "kalte Butter, in Stückchen" },
+        { "group": "Boden & Streusel", "amount": "2", "item": "Eier (Größe M)" },
+        { "group": "Boden & Streusel", "amount": "1 Päckchen", "item": "Backpulver" },
+        { "group": "Füllung", "amount": "900 ml", "item": "Milch" },
+        { "group": "Füllung", "amount": "200 ml", "item": "Sahne" },
+        { "group": "Füllung", "amount": "2 Päckchen", "item": "Vanillepuddingpulver" },
+        { "group": "Füllung", "amount": "160 g", "item": "Zucker" },
+        { "group": "Füllung", "amount": "1 TL", "item": "abgeriebene Zitronenschale, optional" },
+        { "group": "Füllung", "amount": "280 g", "item": "gemahlener Mohn" },
+        { "group": "Zum Bestreuen", "amount": "etwas", "item": "Zucker" }
+      ],
+      "steps": [
+        "Das Puddingpulver mit etwas Milch glatt rühren. Die restliche Milch mit der Sahne aufkochen, Zucker und angerührtes Puddingpulver einrühren und kurz köcheln lassen.",
+        "Den Topf vom Herd nehmen, Mohn und nach Wunsch Zitronenschale unterrühren und die Füllung beiseitestellen.",
+        "Mehl, Zucker, Butter, Eier und Backpulver zu einem Knetteig verarbeiten und bei Bedarf kurz mit den Händen nachkneten.",
+        "Den Backofen auf 190 °C Ober-/Unterhitze vorheizen und einen Backrahmen auf das Blech stellen.",
+        "Die Hälfte bis zwei Drittel des Teigs als Boden andrücken, die Mohnfüllung darauf verteilen und den restlichen Teig als Streusel darüberkrümeln.",
+        "Den Kuchen etwa 30 Minuten backen, nach 15 Minuten mit etwas Zucker bestreuen und anschließend auf dem Blech abkühlen lassen."
+      ],
+      "tip": "Der Kuchen schmeckt besonders gut, wenn er noch leicht warm serviert wird.",
+      "image": "assets/images/mohn-streuselkuchen-vom-blech.png",
+      "imageAlt": "Mohn-Streuselkuchen vom Blech mit dunkler Mohnfüllung und goldenen Butterstreuseln",
+      "source": {
+        "type": "photo",
+        "url": null,
+        "note": "Aus drei Nutzer-Screenshots übernommen. Der zum Bestreuen benötigte Zucker wurde ohne Mengenangabe ergänzt. Vorbereitungs-, Abkühl- und Gesamtzeit sowie Stückzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
     }
   ]
 }
