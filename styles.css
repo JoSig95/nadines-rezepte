@@ -361,15 +361,19 @@ main {
 .layout-compact.is-two-card .top { height: 58mm; }
 .layout-compact.is-two-card .ingredients-page { margin-top: 6mm; }
 .layout-compact.is-two-card .ingredients-page .section-label { margin-bottom: 2.5mm; }
-.layout-compact.is-two-card .ingredients { columns: 2; column-gap: 8mm; }
+.layout-compact.is-two-card .ingredient-columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8mm;
+  align-items: start;
+}
+.layout-compact.is-two-card .ingredients { margin-bottom: 0; }
 .layout-compact.is-two-card .ingredients li {
-  break-inside: avoid;
   padding: 1.55mm 0;
   font-size: 8.8pt;
   line-height: 1.24;
 }
 .layout-compact.is-two-card .ingredients .ingredient-group {
-  column-span: all;
   margin-top: 2.4mm;
   padding: 0 0 0.8mm;
   font-size: 7pt;

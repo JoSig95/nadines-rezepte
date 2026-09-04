@@ -40,17 +40,53 @@ const escapeHtml = (value) => String(value)
   .replaceAll('"', "&quot;")
   .replaceAll("'", "&#039;");
 
-const ingredientList = (items) => {
+const ingredientRowWeight = ({ amount, item }) => {
+  const amountLines = Math.ceil(String(amount).length / 14);
+  const itemLines = Math.ceil(String(item).length / 24);
+  return Math.max(1, amountLines, itemLines);
+};
+
+const splitIngredientsIntoColumns = (items) => {
+  if (items.length < 2) return [items, []];
+
+  const weights = items.map(ingredientRowWeight);
+  const totalWeight = weights.reduce((sum, weight) => sum + weight, 0);
+  let runningWeight = 0;
+  let splitIndex = 1;
+  let smallestDifference = Number.POSITIVE_INFINITY;
+
+  for (let index = 1; index < items.length; index += 1) {
+    runningWeight += weights[index - 1];
+    const difference = Math.abs(totalWeight - (runningWeight * 2));
+    if (difference < smallestDifference) {
+      smallestDifference = difference;
+      splitIndex = index;
+    }
+  }
+
+  return [items.slice(0, splitIndex), items.slice(splitIndex)];
+};
+
+const ingredientRows = (items) => {
   let activeGroup = null;
-  const rows = items.map((item) => {
+  return items.map((item) => {
     const groupHeading = item.group && item.group !== activeGroup
       ? `<li class="ingredient-group"><span>${escapeHtml(item.group)}</span></li>`
       : "";
     activeGroup = item.group || null;
     return `${groupHeading}<li><strong>${escapeHtml(item.amount)}</strong><span>${escapeHtml(item.item)}</span></li>`;
   }).join("");
+};
 
-  return `<ul class="ingredients">${rows}</ul>`;
+const ingredientList = (items, columnCount = 1) => {
+  if (columnCount === 2) {
+    const columns = splitIngredientsIntoColumns(items);
+    return `<div class="ingredient-columns">
+      ${columns.map((column, index) => `<ul class="ingredients ingredient-column" aria-label="Zutaten, Spalte ${index + 1}">${ingredientRows(column)}</ul>`).join("")}
+    </div>`;
+  }
+
+  return `<ul class="ingredients">${ingredientRows(items)}</ul>`;
 };
 
 const stepList = (steps) => `
@@ -117,7 +153,7 @@ function renderCompactPages(entry) {
         <div class="hero"><img src="${escapeHtml(entry.image)}" alt="${escapeHtml(entry.imageAlt)}" /></div>
       </header>
       <div class="${entry.cardPages === 2 ? "ingredients-page" : "content-grid"}">
-        <section><h2 class="section-label">Zutaten</h2>${ingredientList(entry.ingredients)}</section>
+        <section><h2 class="section-label">Zutaten</h2>${ingredientList(entry.ingredients, entry.cardPages === 2 ? 2 : 1)}</section>
         ${entry.cardPages === 2 ? "" : `<section>
           <h2 class="section-label">Zubereitung</h2>${stepList(entry.steps)}
           <p class="tip"><strong>Tipp:</strong> ${escapeHtml(entry.tip)}</p>
