@@ -1169,6 +1169,222 @@
         "url": null,
         "note": "Aus drei Nutzer-Screenshots übernommen. Der zum Bestreuen benötigte Zucker wurde ohne Mengenangabe ergänzt. Vorbereitungs-, Abkühl- und Gesamtzeit sowie Stückzahl wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
+    },
+    {
+      "id": "brokkoli-cheese-bites-mit-skyr-dip",
+      "recipeNumber": 30,
+      "name": "Brokkoli-Cheese-Bites mit Skyr-Dip",
+      "description": "Knusprige Brokkoli-Käse-Happen aus dem Airfryer mit würzigem Skyr-Dip.",
+      "prepTime": "15 Min.",
+      "cookTime": "18 Min.",
+      "totalTime": "33 Min.",
+      "servings": 2,
+      "difficulty": "Einfach",
+      "tags": ["vegetarisch", "brokkoli", "airfryer", "proteinreich"],
+      "ingredients": [
+        { "group": "Bites", "amount": "250 g", "item": "Brokkoli" },
+        { "group": "Bites", "amount": "1", "item": "Ei (Größe M)" },
+        { "group": "Bites", "amount": "120 g", "item": "Light-Reibekäse" },
+        { "group": "Bites", "amount": "40 g", "item": "feine Haferflocken" },
+        { "group": "Bites", "amount": "nach Geschmack", "item": "Salz, Pfeffer und Paprikapulver" },
+        { "group": "Skyr-Dip", "amount": "200 g", "item": "Skyr" },
+        { "group": "Skyr-Dip", "amount": "nach Geschmack", "item": "Salz, Pfeffer, Knoblauch und Kräuter" }
+      ],
+      "steps": [
+        "Den Brokkoli sehr fein hacken und mit Ei, Reibekäse, Haferflocken und Gewürzen vermengen.",
+        "Die Masse kurz im Foodprocessor oder Mixer zerkleinern, bis sie gut formbar, aber nicht cremig ist.",
+        "Kleine Bites formen und im Airfryer bei 180 °C etwa 18 Minuten backen. Nach der Hälfte der Zeit einmal wenden.",
+        "Für den Dip Skyr mit Salz, Pfeffer, Knoblauch und Kräutern glatt rühren und zu den Bites servieren."
+      ],
+      "tip": "Die Bites etwas kleiner formen, wenn sie innen weniger weich sein sollen.",
+      "image": "assets/images/brokkoli-cheese-bites-mit-skyr-dip.png",
+      "imageAlt": "Goldbraune Brokkoli-Käse-Bites mit einer Schale Kräuter-Skyr-Dip",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus Nutzer-Screenshot 1 übernommen. Portionszahl und Vorbereitungszeit wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "glasnudelsalat-mit-erdnusssauce",
+      "recipeNumber": 31,
+      "name": "Glasnudelsalat mit Erdnusssauce",
+      "description": "Frischer Glasnudelsalat mit knackigem Gemüse, Kräutern und cremiger Limetten-Erdnusssauce.",
+      "prepTime": "20 Min.",
+      "cookTime": "5 Min.",
+      "totalTime": "25 Min.",
+      "servings": 4,
+      "difficulty": "Einfach",
+      "tags": ["salat", "glasnudeln", "erdnuss", "vegetarisch"],
+      "ingredients": [
+        { "group": "Salat", "amount": "4 große", "item": "Karotten" },
+        { "group": "Salat", "amount": "1", "item": "Salatgurke" },
+        { "group": "Salat", "amount": "1 Päckchen", "item": "Glasnudeln" },
+        { "group": "Salat", "amount": "2 Hände", "item": "Erdnüsse" },
+        { "group": "Salat", "amount": "nach Geschmack", "item": "Petersilie und Minze" },
+        { "group": "Salat", "amount": "nach Geschmack", "item": "Sesam" },
+        { "group": "Erdnusssauce", "amount": "3 EL", "item": "Erdnussbutter" },
+        { "group": "Erdnusssauce", "amount": "1 EL", "item": "Milch" },
+        { "group": "Erdnusssauce", "amount": "150 ml", "item": "Wasser" },
+        { "group": "Erdnusssauce", "amount": "2 EL", "item": "Sojasauce" },
+        { "group": "Erdnusssauce", "amount": "2", "item": "Limetten, Saft" },
+        { "group": "Erdnusssauce", "amount": "nach Geschmack", "item": "Salz und Pfeffer" }
+      ],
+      "steps": [
+        "Gurke und Karotten mit einem Julienneschäler in feine Streifen schneiden.",
+        "Die Glasnudeln nach Packungsangabe garen und abtropfen lassen.",
+        "Erdnüsse grob hacken sowie Minze und Petersilie fein schneiden.",
+        "Erdnussbutter, Milch, Wasser, Sojasauce und Limettensaft zu einer gleichmäßigen Sauce verrühren und mit Salz und Pfeffer abschmecken.",
+        "Gemüse und Glasnudeln mit der Sauce vermengen und zum Schluss Kräuter, Erdnüsse und Sesam darübergeben."
+      ],
+      "tip": "Erdnüsse und Sesam erst kurz vor dem Servieren darübergeben, damit sie knackig bleiben.",
+      "image": "assets/images/glasnudelsalat-mit-erdnusssauce.png",
+      "imageAlt": "Bunter Glasnudelsalat mit Karotten, Gurke, Kräutern, Erdnüssen und Sesam",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus Nutzer-Screenshot 2 übernommen. Die 150 g Wasser der Quelle wurden als gleichwertige 150 ml notiert. Portionszahl und Zeiten wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "mandarinen-schmand-streuselkuchen",
+      "recipeNumber": 32,
+      "name": "Mandarinen-Schmand-Streuselkuchen",
+      "description": "Cremiger Schmandkuchen mit Mandarinen und knusprigem Streuselboden samt Topping.",
+      "prepTime": "15 Min.",
+      "cookTime": "1 Std.",
+      "totalTime": "2 Std. 15 Min.",
+      "servings": 12,
+      "yield": "1 Springform (28 cm)",
+      "difficulty": "Einfach",
+      "tags": ["kuchen", "mandarinen", "schmand", "streusel"],
+      "ingredients": [
+        { "group": "Streusel", "amount": "350 g", "item": "Mehl" },
+        { "group": "Streusel", "amount": "1", "item": "Ei" },
+        { "group": "Streusel", "amount": "150 g", "item": "Zucker" },
+        { "group": "Streusel", "amount": "125 g", "item": "Butter" },
+        { "group": "Streusel", "amount": "2 TL", "item": "Backpulver" },
+        { "group": "Streusel", "amount": "1 Prise", "item": "Salz" },
+        { "group": "Streusel", "amount": "1 Päckchen", "item": "Vanillezucker" },
+        { "group": "Creme", "amount": "4 kleine Dosen", "item": "Mandarinen, abgetropft" },
+        { "group": "Creme", "amount": "4 Becher", "item": "Schmand" },
+        { "group": "Creme", "amount": "1/2", "item": "Zitrone, Saft" },
+        { "group": "Creme", "amount": "80 g", "item": "Zucker" },
+        { "group": "Creme", "amount": "1 Päckchen", "item": "Vanillepuddingpulver" }
+      ],
+      "steps": [
+        "Mehl, Ei, Zucker, Butter, Backpulver, Salz und Vanillezucker zu Streuseln verarbeiten.",
+        "Schmand, Zitronensaft, Zucker und Vanillepuddingpulver glatt rühren und die abgetropften Mandarinen unterheben.",
+        "Eine Springform mit 28 cm Durchmesser mit Backpapier auslegen oder einfetten.",
+        "Die Hälfte der Streusel in die Form geben und als Boden festdrücken. Die Mandarinencreme darauf verteilen und mit den übrigen Streuseln bedecken.",
+        "Den Kuchen bei 170 °C Heißluft etwa 1 Stunde goldbraun backen und anschließend vollständig abkühlen lassen."
+      ],
+      "tip": "Den Kuchen vor dem Anschneiden vollständig abkühlen lassen, damit die Schmandcreme fest wird.",
+      "image": "assets/images/mandarinen-schmand-streuselkuchen.png",
+      "imageAlt": "Stück Mandarinen-Schmand-Streuselkuchen mit cremiger Füllung und goldenen Streuseln",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus Nutzer-Screenshot 3 übernommen. Stückzahl, Abkühl- und Gesamtzeit wurden geschätzt; die in der Quelle nicht genannten Bechergrößen des Schmands bleiben unverändert. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "schokomousse-mit-kokosmilch-und-datteln",
+      "recipeNumber": 33,
+      "name": "Schokomousse mit Kokosmilch und Datteln",
+      "description": "Cremige Schokomousse aus nur drei Zutaten, ohne zugesetzten Zucker, Sahne oder Ei.",
+      "prepTime": "5 Min.",
+      "cookTime": "0 Min.",
+      "totalTime": "3 Std. 5 Min.",
+      "servings": 4,
+      "difficulty": "Einfach",
+      "tags": ["dessert", "schokolade", "datteln", "vegan"],
+      "ingredients": [
+        { "amount": "400 ml", "item": "cremige Kokosmilch" },
+        { "amount": "120 g oder weniger", "item": "Datteln" },
+        { "amount": "50 g", "item": "Rohkakaopulver" }
+      ],
+      "steps": [
+        "Kokosmilch, Datteln und Rohkakaopulver etwa 3 Minuten sehr fein und cremig mixen.",
+        "Die Mousse auf vier Gläser verteilen und für einige Stunden kalt stellen."
+      ],
+      "tip": "Eine möglichst cremige Kokosmilch verwenden, damit die Mousse nach dem Kühlen gut bindet.",
+      "image": "assets/images/schokomousse-mit-kokosmilch-und-datteln.png",
+      "imageAlt": "Cremige dunkle Schokomousse aus Kokosmilch und Datteln in kleinen Gläsern",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus Nutzer-Screenshot 4 übernommen. Portionszahl und Kühlzeit wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "apfelkuchen-mit-skyr",
+      "recipeNumber": 34,
+      "name": "Apfelkuchen mit Skyr",
+      "description": "Saftiger, proteinreicher Apfelkuchen mit Hafermehl, Skyr und nur sechs Grundzutaten.",
+      "prepTime": "15 Min.",
+      "cookTime": "50 Min.",
+      "totalTime": "1 Std. 20 Min.",
+      "servings": 10,
+      "yield": "1 Form (22–24 cm)",
+      "difficulty": "Einfach",
+      "tags": ["kuchen", "apfel", "skyr", "proteinreich"],
+      "ingredients": [
+        { "group": "Kuchen", "amount": "500 g", "item": "Äpfel" },
+        { "group": "Kuchen", "amount": "3", "item": "Eier" },
+        { "group": "Kuchen", "amount": "50 g", "item": "Erythrit" },
+        { "group": "Kuchen", "amount": "80 g", "item": "Hafermehl" },
+        { "group": "Kuchen", "amount": "100 ml", "item": "Pflanzendrink" },
+        { "group": "Kuchen", "amount": "250 g", "item": "Skyr" },
+        { "group": "Optional", "amount": "etwas", "item": "Zitronensaft" },
+        { "group": "Optional", "amount": "nach Geschmack", "item": "Salz, Vanille, Zimt oder Tonkabohne" },
+        { "group": "Optional", "amount": "etwas", "item": "Puderzucker" }
+      ],
+      "steps": [
+        "Die Äpfel fein hobeln und nach Wunsch mit etwas Zitronensaft beträufeln.",
+        "Eier, Erythrit, Hafermehl, Pflanzendrink und Skyr zu einem glatten Teig verrühren und optional würzen.",
+        "Die Äpfel unterheben und die Masse in eine runde Form mit 22 cm Durchmesser oder eine 22–24 cm lange Kastenform füllen.",
+        "Den Kuchen bei 180 °C etwa 45–55 Minuten backen, abkühlen lassen und nach Wunsch mit Puderzucker bestäuben."
+      ],
+      "tip": "Den Kuchen vor dem Anschneiden etwas abkühlen lassen, damit er sich sauber portionieren lässt.",
+      "image": "assets/images/apfelkuchen-mit-skyr.png",
+      "imageAlt": "Saftiger heller Apfelkuchen mit sichtbaren Apfelscheiben und etwas Puderzucker",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus Nutzer-Screenshot 5 übernommen. Der in der Zubereitung erwähnte Zitronensaft und der optionale Puderzucker wurden ohne Mengenangabe ergänzt. Vorbereitungs-, Abkühl- und Gesamtzeit wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "protein-skyr-creme",
+      "recipeNumber": 35,
+      "name": "Protein-Skyr-Creme",
+      "description": "Schnelle, sättigende Skyr-Creme mit Flohsamenschalen und Toppings nach Wahl.",
+      "prepTime": "5 Min.",
+      "cookTime": "0 Min.",
+      "totalTime": "35 Min.",
+      "servings": 1,
+      "difficulty": "Einfach",
+      "tags": ["dessert", "skyr", "proteinreich", "schnell"],
+      "ingredients": [
+        { "group": "Creme", "amount": "250 g", "item": "Skyr oder Magerquark" },
+        { "group": "Creme", "amount": "150 ml", "item": "Wasser" },
+        { "group": "Creme", "amount": "5 g", "item": "Flohsamenschalen" },
+        { "group": "Creme", "amount": "3 g", "item": "Aromapulver, Geschmack nach Wahl" },
+        { "group": "Topping", "amount": "nach Wahl", "item": "Beeren, Schokolade oder Nussmus" }
+      ],
+      "steps": [
+        "Skyr oder Magerquark mit Wasser, Flohsamenschalen und Aromapulver gründlich verrühren.",
+        "Die Creme etwa 30 Minuten quellen lassen und anschließend mit Toppings nach Wahl servieren."
+      ],
+      "tip": "Die Toppings erst nach der Quellzeit auf die Creme geben.",
+      "image": "assets/images/protein-skyr-creme.png",
+      "imageAlt": "Cremige Skyr-Speise mit Beeren, Schokoladenraspeln und einem Klecks Nussmus",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus Nutzer-Screenshot 6 übernommen. Die Markenbezeichnung des Aromapulvers wurde neutralisiert; Vorbereitungszeit und Portionszahl wurden aus der Quelle abgeleitet. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
     }
   ]
 }
