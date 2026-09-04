@@ -358,6 +358,7 @@ main {
 .layout-compact .steps li { padding-left: 1mm; margin-bottom: 2.7mm; }
 .layout-compact .tip { margin: 4.5mm 0 0; padding: 3mm; border: 0.2mm solid var(--line); background: #fff; color: var(--sage-dark); font-size: 8.8pt; line-height: 1.36; }
 
+.layout-compact.is-two-card .top { height: 58mm; }
 .layout-compact.is-two-card .ingredients-page { margin-top: 6mm; }
 .layout-compact.is-two-card .ingredients-page .section-label { margin-bottom: 2.5mm; }
 .layout-compact.is-two-card .ingredients { columns: 2; column-gap: 8mm; }

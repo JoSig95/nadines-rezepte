@@ -1391,15 +1391,14 @@ window.RECIPE_DATA = {
     {
       "id": "butter-chicken-mit-garlic-naan",
       "recipeNumber": 36,
-      "name": "Butter Chicken mit Garlic Naan",
-      "description": "Cremiges indisches Butter Chicken mit würziger Tomaten-Cashew-Sauce, hausgemachtem Naan und Knoblauchbutter.",
-      "prepTime": "45 Min.",
+      "name": "Butter Chicken",
+      "description": "Cremiges indisches Butter Chicken mit würziger Tomaten-Cashew-Sauce.",
+      "prepTime": "25 Min.",
       "cookTime": "45 Min.",
-      "totalTime": "2 Std. 15 Min.",
+      "totalTime": "1 Std. 40 Min.",
       "servings": 5,
-      "yield": "ca. 5 Naan-Fladen",
       "difficulty": "Mittel",
-      "tags": ["indisch", "hähnchen", "curry", "naan"],
+      "tags": ["indisch", "hähnchen", "curry"],
       "cardPages": 2,
       "ingredients": [
         { "group": "Huhn & Marinade", "amount": "600–900 g", "item": "Hähnchenbrust" },
@@ -1429,39 +1428,25 @@ window.RECIPE_DATA = {
         { "group": "Sauce", "amount": "1 TL", "item": "Garam Masala" },
         { "group": "Sauce", "amount": "1 TL", "item": "Bockshornklee, gemahlen" },
         { "group": "Sauce", "amount": "nach Geschmack", "item": "Salz" },
-        { "group": "Sauce", "amount": "40–60 g", "item": "Sahne, plus etwas zum Servieren" },
-        { "group": "Garlic Naan", "amount": "2 TL", "item": "Trockenhefe" },
-        { "group": "Garlic Naan", "amount": "1 TL", "item": "Zucker" },
-        { "group": "Garlic Naan", "amount": "60 ml", "item": "Wasser, lauwarm" },
-        { "group": "Garlic Naan", "amount": "60 ml", "item": "Naturjoghurt" },
-        { "group": "Garlic Naan", "amount": "40 ml", "item": "neutrales Öl, davon 20 ml Knoblauchöl" },
-        { "group": "Garlic Naan", "amount": "280 g", "item": "Weizenmehl" },
-        { "group": "Garlic Naan", "amount": "1 TL", "item": "Salz" },
-        { "group": "Knoblauchbutter", "amount": "115 g", "item": "Butter" },
-        { "group": "Knoblauchbutter", "amount": "5", "item": "Knoblauchzehen" },
-        { "group": "Knoblauchbutter", "amount": "45 g", "item": "Koriander oder Petersilie, gehackt" }
+        { "group": "Sauce", "amount": "40–60 g", "item": "Sahne, plus etwas zum Servieren" }
       ],
       "steps": [
         "Die Hähnchenbrust von Sehnen befreien und in mundgerechte Stücke schneiden. Mit allen Zutaten der Marinade gründlich vermengen und mindestens 30 Minuten, besser 4–24 Stunden, marinieren.",
-        "Für den Naan-Teig Hefe, Zucker und lauwarmes Wasser verrühren und 10 Minuten stehen lassen. Joghurt und Öl unterrühren.",
-        "Mehl und Salz mischen, die flüssigen Zutaten nach und nach einarbeiten und den Teig mindestens 5 Minuten kräftig kneten. In einer bemehlten Schüssel luftdicht abgedeckt gehen lassen, bis sich das Volumen verdoppelt hat.",
         "Für die Sauce Kardamomkapseln andrücken und mit grüner Chili, Zimtstange und Nelken in einer heißen Pfanne 3–4 Minuten rösten. Die Hälfte der Butter und das Lorbeerblatt zugeben und weitere 2 Minuten rösten.",
         "Die ganzen Gewürze aus der Butter nehmen. Zwiebel würfeln, Knoblauch und Ingwer zu einer Paste zerreiben und alles bei mittlerer Hitze anschwitzen.",
         "Dosentomaten zugeben, die Dose mit etwas Wasser ausspülen und dieses ebenfalls in die Pfanne geben. Alles 5–10 Minuten köcheln lassen.",
         "Cashewkerne, Chilipulver und Zucker zugeben und die Sauce stark reduzieren, bis sie beinahe am Pfannenboden ansetzt.",
         "Währenddessen den Backofen auf höchster Stufe Oberhitze vorheizen. Das Hähnchen aus der Marinade nehmen, auf einem Blech oder auf Spießen verteilen und von jeder Seite etwa 3 Minuten dicht unter dem Heizelement rösten, bis es vollständig durchgegart ist.",
         "Zur reduzierten Sauce etwa 500 ml Wasser geben, einmal aufkochen und fein pürieren. Durch ein Sieb streichen, mit Garam Masala, Bockshornklee, Salz und der restlichen Butter abschmecken und mit Sahne verfeinern.",
-        "Das Hähnchen in die Sauce geben, nochmals aufkochen und bis zum Servieren warm halten.",
-        "Den Naan-Teig zu einer Rolle formen, in etwa 80 g schwere Stücke teilen und zu Fladen ausrollen. Eine leicht geölte Pfanne sehr heiß werden lassen und die Fladen von beiden Seiten je 1–2 Minuten knusprig backen.",
-        "Butter schmelzen, Knoblauch fein hacken und mit den Kräutern einrühren. Die heißen Naan-Fladen mit der Knoblauchbutter bestreichen und zusammen mit dem Butter Chicken und etwas zusätzlicher Sahne servieren."
+        "Das Hähnchen in die Sauce geben, nochmals aufkochen und mit etwas zusätzlicher Sahne servieren."
       ],
-      "tip": "Das Hähnchen und den Naan-Teig frühzeitig vorbereiten; während der Teig geht, kann die Sauce gekocht werden.",
+      "tip": "Das Hähnchen möglichst am Vortag marinieren und mit dem separaten Garlic Naan servieren.",
       "image": "assets/images/butter-chicken-mit-garlic-naan.png",
       "imageAlt": "Cremiges Butter Chicken in einer Schale mit frisch gebackenem Garlic Naan",
       "source": {
         "type": "screenshots",
         "url": null,
-        "note": "Aus sechs vom Nutzer bereitgestellten Instagram-Screenshots übernommen; Instagram-Oberfläche und werbliche Einleitung wurden nicht übernommen. Portionszahl und Zeiten wurden geschätzt. Die Quelle nennt keine Zubereitung der Knoblauchbutter; Schmelzen, Vermengen und Bestreichen wurden als notwendige Schritte ergänzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+        "note": "Aus sechs vom Nutzer bereitgestellten Instagram-Screenshots übernommen; Instagram-Oberfläche und werbliche Einleitung wurden nicht übernommen. Portionszahl und Zeiten wurden geschätzt. Garlic Naan und Knoblauchbutter wurden zur besseren Lesbarkeit als eigenes Rezept ausgelagert. Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
     },
     {
@@ -1512,6 +1497,46 @@ window.RECIPE_DATA = {
         "type": "screenshots",
         "url": null,
         "note": "Aus zwei vom Nutzer bereitgestellten Instagram-Screenshots übernommen; Instagram-Oberfläche, Profilhinweise und Begleittext ohne Rezeptbezug wurden nicht übernommen. Die Quelle enthält Zutaten, aber keine konkrete Zubereitung; Kneten, Gehzeit, Zerkleinern, Belegen und Backen wurden als notwendige Standardschritte ergänzt. Zeiten, Portionszahl und Ausbeute wurden geschätzt. Zitronenspalten wurden aus dem Rezept-Begleittext übernommen. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
+    },
+    {
+      "id": "garlic-naan-mit-knoblauchbutter",
+      "recipeNumber": 38,
+      "name": "Garlic Naan mit Knoblauchbutter",
+      "description": "Weiche, in der Pfanne gebackene Naan-Fladen mit aromatischer Knoblauch-Kräuterbutter.",
+      "prepTime": "20 Min.",
+      "cookTime": "10 Min.",
+      "totalTime": "1 Std. 30 Min.",
+      "servings": 5,
+      "yield": "ca. 5 Naan-Fladen",
+      "difficulty": "Mittel",
+      "tags": ["indisch", "brot", "naan", "beilage"],
+      "ingredients": [
+        { "group": "Naan", "amount": "2 TL", "item": "Trockenhefe" },
+        { "group": "Naan", "amount": "1 TL", "item": "Zucker" },
+        { "group": "Naan", "amount": "60 ml", "item": "Wasser, lauwarm" },
+        { "group": "Naan", "amount": "60 ml", "item": "Naturjoghurt" },
+        { "group": "Naan", "amount": "40 ml", "item": "neutrales Öl, davon 20 ml Knoblauchöl" },
+        { "group": "Naan", "amount": "280 g", "item": "Weizenmehl" },
+        { "group": "Naan", "amount": "1 TL", "item": "Salz" },
+        { "group": "Knoblauchbutter", "amount": "115 g", "item": "Butter" },
+        { "group": "Knoblauchbutter", "amount": "5", "item": "Knoblauchzehen" },
+        { "group": "Knoblauchbutter", "amount": "45 g", "item": "Koriander oder Petersilie, gehackt" }
+      ],
+      "steps": [
+        "Hefe, Zucker und lauwarmes Wasser verrühren und 10 Minuten stehen lassen. Joghurt und Öl unterrühren.",
+        "Mehl und Salz mischen, die flüssigen Zutaten nach und nach einarbeiten und den Teig mindestens 5 Minuten kräftig kneten.",
+        "Den Teig in einer bemehlten Schüssel luftdicht abgedeckt etwa 1 Stunde gehen lassen, bis sich das Volumen verdoppelt hat.",
+        "Den Teig zu einer Rolle formen, in etwa 80 g schwere Stücke teilen und zu Fladen ausrollen. Eine leicht geölte Pfanne sehr heiß werden lassen und die Fladen von beiden Seiten je 1–2 Minuten knusprig backen.",
+        "Butter schmelzen, Knoblauch fein hacken und mit den Kräutern einrühren. Die heißen Naan-Fladen mit der Knoblauchbutter bestreichen und sofort servieren."
+      ],
+      "tip": "Die fertigen Naan-Fladen unter einem sauberen Küchentuch warm halten, damit sie weich bleiben.",
+      "image": "assets/images/garlic-naan-mit-knoblauchbutter.png",
+      "imageAlt": "Frisch gebackenes Garlic Naan mit goldbraunen Röststellen und Knoblauch-Kräuterbutter",
+      "source": {
+        "type": "screenshots",
+        "url": null,
+        "note": "Aus dem Garlic-Naan-Teil der sechs vom Nutzer bereitgestellten Instagram-Screenshots zum Butter Chicken übernommen und zur besseren Lesbarkeit als eigenes Rezept angelegt. Zeiten und Ausbeute wurden geschätzt. Die Quelle nennt keine Zubereitung der Knoblauchbutter; Schmelzen, Vermengen und Bestreichen wurden als notwendige Schritte ergänzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
     }
   ]
