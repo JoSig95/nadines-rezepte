@@ -1152,7 +1152,7 @@ window.RECIPE_DATA = {
         { "group": "Füllung", "amount": "2 Päckchen", "item": "Vanillepuddingpulver" },
         { "group": "Füllung", "amount": "160 g", "item": "Zucker" },
         { "group": "Füllung", "amount": "1 TL", "item": "abgeriebene Zitronenschale, optional" },
-        { "group": "Füllung", "amount": "280 g", "item": "gemahlener Mohn" },
+        { "group": "Füllung", "amount": "200 g", "item": "gemahlener Mohn" },
         { "group": "Zum Bestreuen", "amount": "etwas", "item": "Zucker" }
       ],
       "steps": [
