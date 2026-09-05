@@ -1401,7 +1401,7 @@
       "ingredients": [
         { "group": "Huhn & Marinade", "amount": "600–900 g", "item": "Hähnchenbrust" },
         { "group": "Huhn & Marinade", "amount": "2 EL", "item": "frisch gepresster Zitronensaft" },
-        { "group": "Huhn & Marinade", "amount": "3 TL", "item": "Kashmiri-Chilipulver" },
+        { "group": "Huhn & Marinade", "amount": "2 TL + 1 TL", "item": "Paprika edelsüß + Paprika scharf" },
         { "group": "Huhn & Marinade", "amount": "1 TL", "item": "Salz" },
         { "group": "Huhn & Marinade", "amount": "3 EL", "item": "Knoblauch, gehackt" },
         { "group": "Huhn & Marinade", "amount": "1 EL", "item": "Ingwer, gehackt" },
@@ -1410,9 +1410,9 @@
         { "group": "Huhn & Marinade", "amount": "2 TL", "item": "Kurkumapulver" },
         { "group": "Huhn & Marinade", "amount": "2 TL", "item": "Garam Masala" },
         { "group": "Sauce", "amount": "1 Dose", "item": "Tomaten, vorzugsweise Kirschtomaten" },
-        { "group": "Sauce", "amount": "1", "item": "Zimtstange" },
+        { "group": "Sauce", "amount": "1/2 TL", "item": "Königszimt" },
         { "group": "Sauce", "amount": "1", "item": "grüne Chili, angeritzt" },
-        { "group": "Sauce", "amount": "6", "item": "Kardamomkapseln" },
+        { "group": "Sauce", "amount": "1 TL", "item": "Kardamomsaat, frisch gemahlen" },
         { "group": "Sauce", "amount": "3", "item": "Nelken" },
         { "group": "Sauce", "amount": "100 g", "item": "Butter" },
         { "group": "Sauce", "amount": "1", "item": "Lorbeerblatt" },
@@ -1420,7 +1420,8 @@
         { "group": "Sauce", "amount": "2 EL", "item": "Knoblauch, gehackt" },
         { "group": "Sauce", "amount": "2 TL", "item": "Ingwer, gehackt" },
         { "group": "Sauce", "amount": "1–2 Handvoll", "item": "Cashewkerne" },
-        { "group": "Sauce", "amount": "3 TL", "item": "Kashmiri-Chilipulver" },
+        { "group": "Sauce", "amount": "2 TL + 1 TL", "item": "Paprika edelsüß + Paprika scharf" },
+        { "group": "Sauce", "amount": "1/2 TL", "item": "Tellicherry-Pfeffer, frisch gemahlen" },
         { "group": "Sauce", "amount": "ca. 500 ml", "item": "Wasser, plus etwas zum Ausspülen der Dose" },
         { "group": "Sauce", "amount": "1 TL", "item": "Zucker" },
         { "group": "Sauce", "amount": "1 TL", "item": "Garam Masala" },
@@ -1430,10 +1431,10 @@
       ],
       "steps": [
         "Die Hähnchenbrust von Sehnen befreien und in mundgerechte Stücke schneiden. Mit allen Zutaten der Marinade gründlich vermengen und mindestens 30 Minuten, besser 4–24 Stunden, marinieren.",
-        "Für die Sauce Kardamomkapseln andrücken und mit grüner Chili, Zimtstange und Nelken in einer heißen Pfanne 3–4 Minuten rösten. Die Hälfte der Butter und das Lorbeerblatt zugeben und weitere 2 Minuten rösten.",
-        "Die ganzen Gewürze aus der Butter nehmen. Zwiebel würfeln, Knoblauch und Ingwer zu einer Paste zerreiben und alles bei mittlerer Hitze anschwitzen.",
-        "Dosentomaten zugeben, die Dose mit etwas Wasser ausspülen und dieses ebenfalls in die Pfanne geben. Alles 5–10 Minuten köcheln lassen.",
-        "Cashewkerne, Chilipulver und Zucker zugeben und die Sauce stark reduzieren, bis sie beinahe am Pfannenboden ansetzt.",
+        "Für die Sauce grüne Chili und Nelken in einer heißen Pfanne 1–2 Minuten rösten. Die Hälfte der Butter und das Lorbeerblatt zugeben und weitere 2 Minuten rösten.",
+        "Nelken und Lorbeerblatt aus der Butter nehmen. Zwiebel würfeln, Knoblauch und Ingwer zu einer Paste zerreiben und alles bei mittlerer Hitze anschwitzen.",
+        "Dosentomaten, frisch gemahlene Kardamomsaat und Königszimt zugeben. Die Dose mit etwas Wasser ausspülen, dieses ebenfalls in die Pfanne geben und alles 5–10 Minuten köcheln lassen.",
+        "Cashewkerne, beide Paprikasorten, Tellicherry-Pfeffer und Zucker zugeben und die Sauce stark reduzieren, bis sie beinahe am Pfannenboden ansetzt.",
         "Währenddessen den Backofen auf höchster Stufe Oberhitze vorheizen. Das Hähnchen aus der Marinade nehmen, auf einem Blech oder auf Spießen verteilen und von jeder Seite etwa 3 Minuten dicht unter dem Heizelement rösten, bis es vollständig durchgegart ist.",
         "Zur reduzierten Sauce etwa 500 ml Wasser geben, einmal aufkochen und fein pürieren. Durch ein Sieb streichen, mit Garam Masala, Bockshornklee, Salz und der restlichen Butter abschmecken und mit Sahne verfeinern.",
         "Das Hähnchen in die Sauce geben, nochmals aufkochen und mit etwas zusätzlicher Sahne servieren."
@@ -1444,7 +1445,7 @@
       "source": {
         "type": "screenshots",
         "url": null,
-        "note": "Aus sechs vom Nutzer bereitgestellten Instagram-Screenshots übernommen; Instagram-Oberfläche und werbliche Einleitung wurden nicht übernommen. Portionszahl und Zeiten wurden geschätzt. Garlic Naan und Knoblauchbutter wurden zur besseren Lesbarkeit als eigenes Rezept ausgelagert. Gerichtsfoto mit OpenAI ImageGen erstellt."
+        "note": "Aus sechs vom Nutzer bereitgestellten Instagram-Screenshots übernommen; Instagram-Oberfläche und werbliche Einleitung wurden nicht übernommen. Portionszahl und Zeiten wurden geschätzt. Garlic Naan und Knoblauchbutter wurden zur besseren Lesbarkeit als eigenes Rezept ausgelagert. Die Gewürzung wurde auf Nutzerwunsch an die Armano-Gewürzbox angepasst (Produktangaben: https://armano-supermarkt.de/products/gewurzbox-inkl-knoblauchol). Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
     },
     {
@@ -1474,8 +1475,10 @@
         { "group": "Belag", "amount": "3 EL", "item": "Tomatenmark" },
         { "group": "Belag", "amount": "350 g", "item": "frische Tomaten" },
         { "group": "Belag", "amount": "nach Geschmack", "item": "Petersilie" },
-        { "group": "Belag", "amount": "nach Geschmack", "item": "Salz, Pfeffer und Paprikapulver" },
-        { "group": "Belag", "amount": "nach Geschmack", "item": "Pul Biber" },
+        { "group": "Belag", "amount": "1 TL", "item": "Salz" },
+        { "group": "Belag", "amount": "1/2 TL", "item": "Tellicherry-Pfeffer, frisch gemahlen" },
+        { "group": "Belag", "amount": "2 TL + 1/2 TL", "item": "Paprika edelsüß + Paprika scharf" },
+        { "group": "Belag", "amount": "1 TL", "item": "Pul Biber" },
         { "group": "Belag", "amount": "2 EL", "item": "Olivenöl" },
         { "group": "Zum Servieren", "amount": "nach Geschmack", "item": "Zitronenspalten" }
       ],
@@ -1483,7 +1486,7 @@
         "Mehl, Trockenhefe und Salz vermengen. Lauwarmes Wasser und Olivenöl zugeben und alles zu einem glatten, elastischen Teig kneten.",
         "Den Teig abgedeckt an einem warmen Ort etwa 1 Stunde gehen lassen, bis sich sein Volumen deutlich vergrößert hat.",
         "Zwiebel, Spitzpaprika, Chili, Knoblauch, Tomaten und Petersilie sehr fein hacken oder kurz im Mixer zerkleinern.",
-        "Das zerkleinerte Gemüse mit Hackfleisch, Tomatenmark, Olivenöl, Salz, Pfeffer, Paprikapulver und Pul Biber gründlich zu einer streichfähigen Masse vermengen.",
+        "Das zerkleinerte Gemüse mit Hackfleisch, Tomatenmark, Olivenöl, Salz, Tellicherry-Pfeffer, beiden Paprikasorten und Pul Biber gründlich zu einer streichfähigen Masse vermengen.",
         "Den Backofen mit einem Blech oder Pizzastein auf die höchstmögliche Temperatur vorheizen.",
         "Den Teig in etwa acht Portionen teilen und jeweils sehr dünn ausrollen. Den Belag dünn und gleichmäßig bis knapp an den Rand verstreichen.",
         "Die Lahmacun nacheinander auf dem heißen Blech oder Stein etwa 5–8 Minuten backen, bis der Rand leicht gebräunt und der Belag vollständig durchgegart ist. Heiß mit Zitronenspalten servieren."
@@ -1494,7 +1497,7 @@
       "source": {
         "type": "screenshots",
         "url": null,
-        "note": "Aus zwei vom Nutzer bereitgestellten Instagram-Screenshots übernommen; Instagram-Oberfläche, Profilhinweise und Begleittext ohne Rezeptbezug wurden nicht übernommen. Die Quelle enthält Zutaten, aber keine konkrete Zubereitung; Kneten, Gehzeit, Zerkleinern, Belegen und Backen wurden als notwendige Standardschritte ergänzt. Zeiten, Portionszahl und Ausbeute wurden geschätzt. Zitronenspalten wurden aus dem Rezept-Begleittext übernommen. Gerichtsfoto mit OpenAI ImageGen erstellt."
+        "note": "Aus zwei vom Nutzer bereitgestellten Instagram-Screenshots übernommen; Instagram-Oberfläche, Profilhinweise und Begleittext ohne Rezeptbezug wurden nicht übernommen. Die Quelle enthält Zutaten, aber keine konkrete Zubereitung; Kneten, Gehzeit, Zerkleinern, Belegen und Backen wurden als notwendige Standardschritte ergänzt. Zeiten, Portionszahl und Ausbeute wurden geschätzt. Zitronenspalten wurden aus dem Rezept-Begleittext übernommen. Die Gewürzung wurde auf Nutzerwunsch an die Armano-Gewürzbox angepasst (Produktangaben: https://armano-supermarkt.de/products/gewurzbox-inkl-knoblauchol). Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
     },
     {
