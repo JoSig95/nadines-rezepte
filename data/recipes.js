@@ -1541,6 +1541,62 @@ window.RECIPE_DATA = {
         "url": null,
         "note": "Aus dem Garlic-Naan-Teil der sechs vom Nutzer bereitgestellten Instagram-Screenshots zum Butter Chicken übernommen und zur besseren Lesbarkeit als eigenes Rezept angelegt. Zeiten und Ausbeute wurden geschätzt. Die Quelle nennt keine Zubereitung der Knoblauchbutter; Schmelzen, Vermengen und Bestreichen wurden als notwendige Schritte ergänzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
+    },
+    {
+      "id": "marzipantorte-mit-himbeerfuellung",
+      "recipeNumber": 39,
+      "name": "Marzipantorte mit Himbeerfüllung",
+      "description": "Feine Mandelbiskuittorte mit Himbeer-Mascarpone-Creme, Marzipanschichten und fruchtiger Dekoration.",
+      "prepTime": "1 Std.",
+      "cookTime": "30 Min.",
+      "totalTime": "5 Std. 30 Min.",
+      "servings": 10,
+      "yield": "1 Torte, 18 cm",
+      "difficulty": "Anspruchsvoll",
+      "tags": ["torte", "himbeeren", "marzipan", "mandelbiskuit"],
+      "cardPages": 2,
+      "ingredients": [
+        { "group": "Mandelbiskuit", "amount": "4", "item": "Eier" },
+        { "group": "Mandelbiskuit", "amount": "120 g", "item": "Zucker" },
+        { "group": "Mandelbiskuit", "amount": "80 g", "item": "Weizenmehl" },
+        { "group": "Mandelbiskuit", "amount": "20 g", "item": "Speisestärke" },
+        { "group": "Mandelbiskuit", "amount": "30 g", "item": "Mandeln, gemahlen" },
+        { "group": "Mandelbiskuit", "amount": "1 TL", "item": "Backpulver" },
+        { "group": "Himbeerfüllung", "amount": "250 g", "item": "Mascarpone" },
+        { "group": "Himbeerfüllung", "amount": "400 ml", "item": "Sahne" },
+        { "group": "Himbeerfüllung", "amount": "4 TL", "item": "San-apart" },
+        { "group": "Himbeerfüllung", "amount": "100 g", "item": "Puderzucker" },
+        { "group": "Himbeerfüllung", "amount": "300 g", "item": "Himbeeren, tiefgekühlt" },
+        { "group": "Marzipanschicht", "amount": "200 g", "item": "Marzipanrohmasse" },
+        { "group": "Marzipanschicht", "amount": "30 g", "item": "Puderzucker" },
+        { "group": "Deko", "amount": "100 ml", "item": "Sahne" },
+        { "group": "Deko", "amount": "1 TL", "item": "San-apart" },
+        { "group": "Deko", "amount": "nach Bedarf", "item": "frische Himbeeren" },
+        { "group": "Deko", "amount": "nach Bedarf", "item": "gefriergetrocknete Himbeeren" },
+        { "group": "Deko", "amount": "nach Bedarf", "item": "Schokoröllchen" },
+        { "group": "Sonstiges", "amount": "100 g", "item": "Himbeerkonfitüre" }
+      ],
+      "steps": [
+        "Den Backofen auf 180 °C Ober-/Unterhitze vorheizen. Eier und Zucker auf höchster Stufe schaumig schlagen.",
+        "Mehl, Speisestärke und Backpulver mischen, in den Teig sieben und die gemahlenen Mandeln vorsichtig mit einem Schneebesen unterheben.",
+        "Den Teig in eine 18-cm-Springform füllen und etwa 30 Minuten backen. Anschließend aus der Form lösen, stürzen und vollständig abkühlen lassen.",
+        "Den Biskuit waagerecht in drei gleich hohe Böden teilen. Den unteren Boden auf eine Tortenplatte setzen und einen Tortenring darumspannen.",
+        "Die tiefgekühlten Himbeeren antauen lassen. Mascarpone, Sahne, San-apart und Puderzucker steif schlagen und die Himbeeren unterheben.",
+        "Marzipanrohmasse und Puderzucker verkneten und in zwei Portionen teilen. Die Arbeitsfläche mit Puderzucker bestreuen und beide Portionen jeweils zu einem Kreis von etwa 16 cm ausrollen.",
+        "Den unteren Biskuitboden mit der Hälfte der Himbeerkonfitüre bestreichen. Einen Marzipankreis auflegen, ein Drittel der Creme darauf verteilen und den zweiten Boden auflegen.",
+        "Den zweiten Boden mit der restlichen Konfitüre bestreichen, den zweiten Marzipankreis auflegen, ein weiteres Drittel der Creme verteilen und den dritten Boden auflegen.",
+        "Die restliche Creme auf dem oberen Boden glatt streichen und die Torte mindestens 3–4 Stunden, am besten über Nacht, kühlen.",
+        "Den Tortenring abnehmen. Sahne mit San-apart steif schlagen, in einen Spritzbeutel mit Sterntülle füllen und Sahnetuffs auf die Torte setzen.",
+        "Die Torte mit frischen und gefriergetrockneten Himbeeren sowie Schokoröllchen dekorieren."
+      ],
+      "tip": "Die Böden lassen sich besonders sauber schneiden, wenn der Mandelbiskuit vollständig ausgekühlt ist oder bereits am Vortag gebacken wurde.",
+      "image": "assets/images/marzipantorte-mit-himbeerfuellung.png",
+      "imageAlt": "Hohe Marzipantorte mit Mandelbiskuit, Himbeercreme, frischen Himbeeren und Schokoröllchen",
+      "source": {
+        "type": "screenshots",
+        "url": "https://mein-naschglueck.de/",
+        "note": "Aus vier vom Nutzer bereitgestellten Screenshots von mein-naschglueck.de übernommen; Browseroberfläche, Kommentare, Werbung und Affiliate-Links wurden nicht übernommen. Die in der Quelle fehlerhaft dargestellte Backformangabe ‚1818 cm‘ wurde als 18 cm interpretiert. Zeiten, Portionszahl und Ausbeute wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
     }
   ]
 };
