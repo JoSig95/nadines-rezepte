@@ -1597,6 +1597,52 @@ window.RECIPE_DATA = {
         "url": "https://mein-naschglueck.de/",
         "note": "Aus vier vom Nutzer bereitgestellten Screenshots von mein-naschglueck.de übernommen; Browseroberfläche, Kommentare, Werbung und Affiliate-Links wurden nicht übernommen. Die in der Quelle fehlerhaft dargestellte Backformangabe ‚1818 cm‘ wurde als 18 cm interpretiert. Zeiten, Portionszahl und Ausbeute wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
+    },
+    {
+      "id": "herbstsalat-mit-ofenkuerbis-und-kichererbsen",
+      "recipeNumber": 40,
+      "name": "Herbstsalat mit Ofenkürbis und Kichererbsen",
+      "description": "Bunter Herbstsalat mit würzigem Ofenkürbis, Kichererbsen, Babyspinat, Feta und Granatapfelkernen.",
+      "prepTime": "15 Min.",
+      "cookTime": "20 Min.",
+      "totalTime": "35 Min.",
+      "servings": "2–3",
+      "difficulty": "Einfach",
+      "tags": ["salat", "vegetarisch", "kürbis", "herbst"],
+      "cardPages": 2,
+      "ingredients": [
+        { "group": "Ofengemüse", "amount": "½", "item": "Hokkaido-Kürbis, ca. 500 g" },
+        { "group": "Ofengemüse", "amount": "1", "item": "rote Zwiebel" },
+        { "group": "Ofengemüse", "amount": "1 Glas", "item": "Kichererbsen, ca. 240 g Abtropfgewicht" },
+        { "group": "Ofengemüse", "amount": "1–2 EL", "item": "Olivenöl" },
+        { "group": "Ofengemüse", "amount": "nach Bedarf", "item": "Salz & Pfeffer" },
+        { "group": "Ofengemüse", "amount": "ca. 1 TL", "item": "Ras el-Hanout oder Chakalaka-Gewürz" },
+        { "group": "Salat", "amount": "100–150 g", "item": "Babyspinat oder Babyspinat-Feldsalat-Mischung" },
+        { "group": "Salat", "amount": "von ½", "item": "Granatapfel, die Kerne" },
+        { "group": "Salat", "amount": "ca. 90 g", "item": "Feta" },
+        { "group": "Salat", "amount": "optional", "item": "Kürbiskerne, Sonnenblumenkerne, Leinsamen oder Walnüsse" },
+        { "group": "Dressing", "amount": "1 TL", "item": "mittelscharfer Senf" },
+        { "group": "Dressing", "amount": "1 TL", "item": "Honig oder Ahornsirup" },
+        { "group": "Dressing", "amount": "2–3 EL", "item": "Rotweinessig oder Apfelessig" },
+        { "group": "Dressing", "amount": "2 EL", "item": "Olivenöl" },
+        { "group": "Dressing", "amount": "1–2 EL", "item": "Wasser" },
+        { "group": "Dressing", "amount": "nach Bedarf", "item": "Salz & Pfeffer" }
+      ],
+      "steps": [
+        "Den Backofen auf 180 °C Umluft vorheizen. Kürbis würfeln, Zwiebel schneiden und die Kichererbsen abgießen.",
+        "Kürbis, Zwiebel und Kichererbsen mit Olivenöl, Salz, Pfeffer und Gewürz vermengen und etwa 20 Minuten im Ofen rösten.",
+        "Den Salat waschen und mit Granatapfelkernen und zerbröseltem Feta anrichten.",
+        "Senf, Honig oder Ahornsirup, Essig, Olivenöl, Wasser, Salz und Pfeffer in einem verschlossenen Glas kräftig schütteln und über den Salat geben.",
+        "Das Ofengemüse auf dem Salat verteilen und nach Wunsch mit gerösteten Kernen oder Nüssen bestreuen."
+      ],
+      "tip": "Kürbis und Kichererbsen kurz abkühlen lassen, damit der Salat knackig bleibt und der Feta nicht schmilzt.",
+      "image": "assets/images/herbstsalat-mit-ofenkuerbis-und-kichererbsen.png",
+      "imageAlt": "Herbstsalat mit geröstetem Hokkaido-Kürbis, Kichererbsen, Babyspinat, Feta und Granatapfelkernen",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus einem vom Nutzer bereitgestellten Screenshot übernommen; Handyoberfläche und nicht zum Rezept gehörende Bildbereiche wurden nicht übernommen. Vorbereitungs- und Gesamtzeit wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
     }
   ]
 };
