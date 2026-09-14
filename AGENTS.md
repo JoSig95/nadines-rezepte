@@ -15,7 +15,8 @@ Dieses Projekt ist eine persönliche, druckbare Rezeptsammlung. Neue Rezepte kö
 7. Für jedes Rezept ein appetitliches, textfreies Gerichtsfoto unter `assets/images/<id>.*` ablegen. Ein vom Nutzer bereitgestelltes Bild bevorzugen; andernfalls ein neues Bild generieren. Bildrechte bzw. Quelle in `source.note` kenntlich machen.
 8. Das gewählte Layout aus `selectedLayout` verwenden. Vor der Layoutentscheidung bleiben alle drei Varianten erhalten.
 9. Alle Rezeptkarten verwenden dieselbe gut lesbare Standardschriftgröße; die Schrift für umfangreiche Rezepte nicht verkleinern. Zunächst prüfen, ob das Rezept auf eine DIN-A5-Seite passt. Bei langen Rezepten Formulierungen kürzen und Abstände moderat anpassen; keine Zutaten oder Arbeitsschritte entfernen. Reicht eine Seite mit der Standardschrift nicht aus, das Rezept mit `cardPages: 2` auf zwei DIN-A5-Karten aufteilen: Titel, Bild und Zutaten auf Karte 1, Zubereitung und Tipp auf Karte 2. Bei zweispaltigen Zutatenlisten jede Zeile in einer expliziten Spalte rendern und prüfen, dass mehrzeilige Einträge nicht am Spaltenwechsel abgeschnitten werden.
-10. JSON und JavaScript validieren und die Seite sowohl direkt per Doppelklick auf `index.html` als auch über einen lokalen Webserver prüfen.
+10. Jedes neue oder geänderte Rezept anhand seiner Tags einer passenden sichtbaren Kategorie zuordnen und die Kategorieansicht prüfen. `Sonstiges` nur verwenden, wenn keine bestehende Kategorie inhaltlich passt; bei Bedarf die zentrale Kategorienzuordnung in `app.js` sinnvoll erweitern.
+11. JSON und JavaScript validieren und die Seite sowohl direkt per Doppelklick auf `index.html` als auch über einen lokalen Webserver prüfen.
 
 ## Pflichtfelder pro Rezept
 

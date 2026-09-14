@@ -187,12 +187,12 @@ const renderers = { editorial: renderEditorial, split: renderSplit, compact: ren
 
 const categoryDefinitions = [
   { name: "Brote", tags: ["brot"] },
-  { name: "Kuchen & Torten", tags: ["kuchen", "käsekuchen", "blechkuchen"] },
+  { name: "Kuchen & Torten", tags: ["kuchen", "torte", "käsekuchen", "blechkuchen"] },
   { name: "Gebäck & Süßes", tags: ["cookies", "hefegebäck", "gebäck", "waffeln", "süßes"] },
   { name: "Desserts", tags: ["dessert"] },
   { name: "Salate & Beilagen", tags: ["salat", "salsa", "beilage"] },
-  { name: "Hauptgerichte", tags: ["pasta"] },
-  { name: "Herzhaftes", tags: ["fisch", "schinken", "party"] },
+  { name: "Hauptgerichte", tags: ["pasta", "curry", "hähnchen", "hackfleisch"] },
+  { name: "Herzhaftes", tags: ["fisch", "schinken", "party", "streetfood", "airfryer"] },
 ];
 
 function recipeCategory(entry) {
