@@ -316,6 +316,7 @@ window.RECIPE_DATA = {
       "servings": 12,
       "difficulty": "Mittel",
       "tags": ["kuchen", "apfel", "eierlikör", "sahne"],
+      "cardPages": 2,
       "ingredients": [
         { "group": "Mürbeteig", "amount": "200 g", "item": "Mehl" },
         { "group": "Mürbeteig", "amount": "70 g", "item": "Zucker" },
@@ -455,6 +456,7 @@ window.RECIPE_DATA = {
       "yield": "1 Blech",
       "difficulty": "Mittel",
       "tags": ["kuchen", "erdbeeren", "joghurt", "blechkuchen"],
+      "cardPages": 2,
       "ingredients": [
         { "group": "Biskuit", "amount": "4", "item": "Eiweiß" },
         { "group": "Biskuit", "amount": "150 g", "item": "Zucker" },
@@ -496,6 +498,7 @@ window.RECIPE_DATA = {
       "servings": 12,
       "difficulty": "Mittel",
       "tags": ["kuchen", "himbeeren", "pudding", "schmand"],
+      "cardPages": 2,
       "ingredients": [
         { "group": "Mürbeteig", "amount": "1", "item": "Ei" },
         { "group": "Mürbeteig", "amount": "125 g", "item": "Zucker" },
@@ -587,6 +590,7 @@ window.RECIPE_DATA = {
       "servings": 12,
       "difficulty": "Einfach",
       "tags": ["kuchen", "quark", "mandarinen", "käsekuchen"],
+      "cardPages": 2,
       "ingredients": [
         { "group": "Mürbeteig", "amount": "200 g", "item": "Mehl" },
         { "group": "Mürbeteig", "amount": "75 g", "item": "Zucker" },
@@ -631,6 +635,7 @@ window.RECIPE_DATA = {
       "yield": "15 Stück",
       "difficulty": "Mittel",
       "tags": ["hefegebäck", "zimt", "knoten", "süßes"],
+      "cardPages": 2,
       "ingredients": [
         { "group": "Teig", "amount": "500 g", "item": "Mehl" },
         { "group": "Teig", "amount": "½ Würfel", "item": "frische Hefe" },
@@ -873,6 +878,7 @@ window.RECIPE_DATA = {
       "yield": "1 Brot",
       "difficulty": "Mittel",
       "tags": ["brot", "joghurt", "roggen", "krustenbrot"],
+      "cardPages": 2,
       "ingredients": [
         { "amount": "350 g", "item": "Mehl, Type 550 oder 630" },
         { "amount": "150 g", "item": "Roggenmehl, Type 1150" },
@@ -1054,6 +1060,7 @@ window.RECIPE_DATA = {
       "yield": "6 Stück",
       "difficulty": "Mittel",
       "tags": ["gebäck", "banane", "schokolade", "marzipan"],
+      "cardPages": 2,
       "ingredients": [
         { "group": "Teig", "amount": "200 g", "item": "Marzipanrohmasse" },
         { "group": "Teig", "amount": "1", "item": "Eiweiß" },
@@ -1095,6 +1102,7 @@ window.RECIPE_DATA = {
       "yield": "1 Zopf",
       "difficulty": "Mittel",
       "tags": ["hefegebäck", "mohn", "zopf", "sultaninen"],
+      "cardPages": 2,
       "ingredients": [
         { "group": "Hefeteig", "amount": "500 g", "item": "Mehl" },
         { "group": "Hefeteig", "amount": "30 g", "item": "frische Hefe" },
@@ -1141,6 +1149,7 @@ window.RECIPE_DATA = {
       "yield": "1 Blech (ca. 29 × 42 cm)",
       "difficulty": "Mittel",
       "tags": ["kuchen", "mohn", "streusel", "blechkuchen"],
+      "cardPages": 2,
       "ingredients": [
         { "group": "Boden & Streusel", "amount": "600 g", "item": "Weizenmehl" },
         { "group": "Boden & Streusel", "amount": "200 g", "item": "Zucker" },
@@ -1400,6 +1409,8 @@ window.RECIPE_DATA = {
       "difficulty": "Mittel",
       "tags": ["indisch", "hähnchen", "curry"],
       "cardPages": 2,
+      "hideFirstPageMeta": true,
+      "hideContinuationMeta": true,
       "ingredients": [
         { "group": "Huhn & Marinade", "amount": "600–900 g", "item": "Hähnchenbrust" },
         { "group": "Huhn & Marinade", "amount": "2 EL", "item": "frisch gepresster Zitronensaft" },
@@ -1555,6 +1566,7 @@ window.RECIPE_DATA = {
       "difficulty": "Anspruchsvoll",
       "tags": ["torte", "himbeeren", "marzipan", "mandelbiskuit"],
       "cardPages": 2,
+      "hideContinuationMeta": true,
       "ingredients": [
         { "group": "Mandelbiskuit", "amount": "4", "item": "Eier" },
         { "group": "Mandelbiskuit", "amount": "120 g", "item": "Zucker" },

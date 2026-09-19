@@ -146,10 +146,11 @@ function renderSplit(entry) {
 }
 
 function renderCompactPages(entry) {
+  const hideFirstPageMeta = entry.hideFirstPageMeta === true;
   const firstPage = `
-    <article class="recipe-page layout-compact ${densityClass(entry)}" aria-label="${escapeHtml(entry.name)} im kompakten Layout">
+    <article class="recipe-page layout-compact ${densityClass(entry)}${hideFirstPageMeta ? " has-compact-top" : ""}" aria-label="${escapeHtml(entry.name)} im kompakten Layout">
       <header class="top">
-        <div class="title-block"><h1>${recipeTitle(entry)}</h1>${meta(entry)}</div>
+        <div class="title-block"><h1>${recipeTitle(entry)}</h1>${hideFirstPageMeta ? "" : meta(entry)}</div>
         <div class="hero"><img src="${escapeHtml(entry.image)}" alt="${escapeHtml(entry.imageAlt)}" /></div>
       </header>
       <div class="${entry.cardPages === 2 ? "ingredients-page" : "content-grid"}">
@@ -163,11 +164,12 @@ function renderCompactPages(entry) {
 
   if (entry.cardPages !== 2) return [firstPage];
 
+  const hideContinuationMeta = entry.hideContinuationMeta === true;
   const secondPage = `
-    <article class="recipe-page layout-compact is-two-card continuation-card" aria-label="${escapeHtml(entry.name)} – Zubereitung">
+    <article class="recipe-page layout-compact is-two-card continuation-card${hideContinuationMeta ? " has-compact-continuation" : ""}" aria-label="${escapeHtml(entry.name)} – Zubereitung">
       <header class="continuation-header">
         <h1>${recipeTitle(entry)}</h1>
-        ${meta(entry)}
+        ${hideContinuationMeta ? "" : meta(entry)}
       </header>
       <section class="preparation-page">
         <h2 class="section-label">Zubereitung</h2>

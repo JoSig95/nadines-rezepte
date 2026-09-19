@@ -359,6 +359,8 @@ main {
 .layout-compact .tip { margin: 4.5mm 0 0; padding: 3mm; border: 0.2mm solid var(--line); background: #fff; color: var(--sage-dark); font-size: 8.8pt; line-height: 1.36; }
 
 .layout-compact.is-two-card .top { height: 58mm; }
+.layout-compact.is-two-card.has-compact-top .top { height: 45mm; }
+.layout-compact.is-two-card.has-compact-top .title-block { gap: 0; }
 .layout-compact.is-two-card .ingredients-page { margin-top: 6mm; }
 .layout-compact.is-two-card .ingredients-page .section-label { margin-bottom: 2.5mm; }
 .layout-compact.is-two-card .ingredient-columns {
@@ -394,6 +396,13 @@ main {
 .layout-compact .preparation-page .steps { padding-left: 20px; font-size: 8.8pt; line-height: 1.36; }
 .layout-compact .preparation-page .steps li { padding-left: 1.2mm; margin-bottom: 4mm; }
 .layout-compact .preparation-page .tip { margin-top: 7mm; padding: 3.5mm; font-size: 8.8pt; line-height: 1.36; }
+.layout-compact.continuation-card.has-compact-continuation .continuation-header {
+  min-height: 27mm;
+  gap: 0;
+}
+.layout-compact.continuation-card.has-compact-continuation .preparation-page { margin-top: 5mm; }
+.layout-compact.continuation-card.has-compact-continuation .preparation-page .steps li { margin-bottom: 2.5mm; }
+.layout-compact.continuation-card.has-compact-continuation .preparation-page .tip { margin-top: 4mm; }
 
 footer {
   width: min(1220px, calc(100% - 48px));
