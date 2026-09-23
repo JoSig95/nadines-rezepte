@@ -1653,6 +1653,43 @@
         "url": null,
         "note": "Aus einem vom Nutzer bereitgestellten Screenshot übernommen; Handyoberfläche und nicht zum Rezept gehörende Bildbereiche wurden nicht übernommen. Vorbereitungs- und Gesamtzeit wurden geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
+    },
+    {
+      "id": "fruehstueckswecken-mit-buttermilch",
+      "recipeNumber": 41,
+      "name": "Frühstückswecken mit Buttermilch",
+      "description": "Lockere Dinkelwecken mit Buttermilch, feiner Honignote und knuspriger Kruste.",
+      "prepTime": "20 Min.",
+      "cookTime": "20–25 Min.",
+      "totalTime": "2 Std.",
+      "servings": 8,
+      "yield": "8 Wecken",
+      "difficulty": "Einfach",
+      "tags": ["brot", "brötchen", "frühstück", "dinkel"],
+      "ingredients": [
+        { "amount": "500 ml", "item": "Buttermilch" },
+        { "amount": "15 g", "item": "frische Hefe" },
+        { "amount": "1 TL", "item": "Honig" },
+        { "amount": "500 g", "item": "Dinkelmehl Type 630" },
+        { "amount": "1 TL", "item": "Salz" },
+        { "amount": "1 EL", "item": "Olivenöl" }
+      ],
+      "steps": [
+        "Buttermilch lauwarm erwärmen und Hefe sowie Honig darin auflösen.",
+        "Dinkelmehl, Salz und Olivenöl dazugeben und alles zu einem glatten Teig verkneten.",
+        "Den Teig abgedeckt etwa 60 Minuten an einem warmen Ort gehen lassen.",
+        "Den Teig in acht Portionen teilen, zu Wecken formen und auf ein leicht gefettetes und bemehltes Backblech oder in eine große Backform setzen.",
+        "Die Wecken mit Mehl bestäuben, einschneiden und nochmals abgedeckt etwa 20 Minuten gehen lassen. Währenddessen den Backofen auf 200 °C Ober-/Unterhitze vorheizen.",
+        "Die Wecken etwa 20–25 Minuten goldbraun backen und anschließend auf einem Gitter auskühlen lassen."
+      ],
+      "tip": "Die Buttermilch nur lauwarm erwärmen, damit die Hefe zuverlässig arbeitet.",
+      "image": "assets/images/fruehstueckswecken-mit-buttermilch.png",
+      "imageAlt": "Goldbraune, mit Mehl bestäubte Frühstückswecken aus Dinkelmehl und Buttermilch",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus einem vom Nutzer bereitgestellten Screenshot übernommen; Emojis und nicht zum Rezept gehörende Oberflächenelemente wurden nicht übernommen. Die markenspezifische Formangabe wurde neutral als Backblech oder große Backform formuliert. Backzeit, zweite Gehzeit, Vorbereitungs- und Gesamtzeit wurden ergänzt bzw. geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
     }
   ]
 }
