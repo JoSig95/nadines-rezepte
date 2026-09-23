@@ -1,0 +1,15 @@
+window.VERSION_HISTORY = {
+  "currentVersion": "1.41.0",
+  "entries": [
+    { "version": "1.41.0", "date": "2026-09-23", "recipeNumber": 41, "recipeId": "fruehstueckswecken-mit-buttermilch", "recipeName": "Frühstückswecken mit Buttermilch" },
+    { "version": "1.40.0", "date": "2026-09-11", "recipeNumber": 40, "recipeId": "herbstsalat-mit-ofenkuerbis-und-kichererbsen", "recipeName": "Herbstsalat mit Ofenkürbis und Kichererbsen" },
+    { "version": "1.39.0", "date": "2026-09-10", "recipeNumber": 39, "recipeId": "marzipantorte-mit-himbeerfuellung", "recipeName": "Marzipantorte mit Himbeerfüllung" },
+    { "version": "1.38.0", "date": "2026-09-04", "recipeNumber": 38, "recipeId": "garlic-naan-mit-knoblauchbutter", "recipeName": "Garlic Naan mit Knoblauchbutter" },
+    { "version": "1.37.0", "date": "2026-09-04", "recipeNumber": 37, "recipeId": "lahmacun", "recipeName": "Lahmacun" },
+    { "version": "1.36.0", "date": "2026-09-04", "recipeNumber": 36, "recipeId": "butter-chicken-mit-garlic-naan", "recipeName": "Butter Chicken" },
+    { "version": "1.35.0", "date": "2026-09-04", "recipeNumber": 35, "recipeId": "protein-skyr-creme", "recipeName": "Protein-Skyr-Creme" },
+    { "version": "1.34.0", "date": "2026-09-04", "recipeNumber": 34, "recipeId": "apfelkuchen-mit-skyr", "recipeName": "Apfelkuchen mit Skyr" },
+    { "version": "1.33.0", "date": "2026-09-04", "recipeNumber": 33, "recipeId": "schokomousse-mit-kokosmilch-und-datteln", "recipeName": "Schokomousse mit Kokosmilch und Datteln" },
+    { "version": "1.32.0", "date": "2026-09-04", "recipeNumber": 32, "recipeId": "mandarinen-schmand-streuselkuchen", "recipeName": "Mandarinen-Schmand-Streuselkuchen" }
+  ]
+};

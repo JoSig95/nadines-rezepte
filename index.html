@@ -46,6 +46,18 @@
         </button>
       </section>
 
+      <section class="version-history" aria-labelledby="version-history-title">
+        <div class="version-history-heading">
+          <div>
+            <p class="eyebrow">Versionsverlauf</p>
+            <h2 id="version-history-title">Zuletzt hinzugefügt</h2>
+            <p>Die zehn neuesten Rezepte der Sammlung.</p>
+          </div>
+          <span class="version-badge" id="current-version">Version wird geladen …</span>
+        </div>
+        <ol class="version-list" id="version-list" aria-live="polite"></ol>
+      </section>
+
       <section class="preview-area" aria-live="polite">
         <div class="preview-heading">
           <p class="preview-kicker">Rezeptkategorien</p>
@@ -71,6 +83,7 @@
     </section>
 
     <script src="data/recipes.js" defer></script>
+    <script src="data/version-history.js" defer></script>
     <script src="app.js" defer></script>
   </body>
 </html>

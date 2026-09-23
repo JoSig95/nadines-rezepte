@@ -25,6 +25,8 @@ const clearSideButtons = [...document.querySelectorAll("[data-clear-side]")];
 const printSheet = document.querySelector("#print-sheet");
 const printSlotLeft = document.querySelector("#print-slot-left");
 const printSlotRight = document.querySelector("#print-slot-right");
+const currentVersion = document.querySelector("#current-version");
+const versionList = document.querySelector("#version-list");
 let recipe;
 let recipes = [];
 let selectedLayout = "compact";
@@ -281,6 +283,49 @@ function selectRecipe(index) {
   renderRecipeControls();
 }
 
+function renderVersionHistory(history) {
+  if (!versionList || !currentVersion) return;
+
+  const entries = Array.isArray(history?.entries) ? history.entries.slice(0, 10) : [];
+  currentVersion.textContent = history?.currentVersion
+    ? `Version ${history.currentVersion}`
+    : "Keine Version verfügbar";
+
+  if (!entries.length) {
+    versionList.innerHTML = "<li class=\"version-empty\">Noch keine Veröffentlichungen vorhanden.</li>";
+    return;
+  }
+
+  versionList.innerHTML = entries.map((entry) => {
+    const recipeIndex = recipes.findIndex((candidate) => candidate.id === entry.recipeId);
+    const formattedDate = new Intl.DateTimeFormat("de-DE", {
+      day: "2-digit",
+      month: "2-digit",
+      year: "numeric",
+    }).format(new Date(`${entry.date}T12:00:00`));
+
+    return `<li>
+      <button type="button" class="version-entry" data-version-recipe-index="${recipeIndex}" ${recipeIndex < 0 ? "disabled" : ""}>
+        <span class="version-number">v${escapeHtml(entry.version)}</span>
+        <span class="version-recipe">
+          <strong>${String(entry.recipeNumber).padStart(2, "0")} · ${escapeHtml(entry.recipeName)}</strong>
+          <small>Hinzugefügt am ${formattedDate}</small>
+        </span>
+        <span class="version-arrow" aria-hidden="true">→</span>
+      </button>
+    </li>`;
+  }).join("");
+
+  versionList.querySelectorAll("[data-version-recipe-index]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const index = Number(button.dataset.versionRecipeIndex);
+      if (index < 0) return;
+      selectRecipe(index);
+      document.querySelector("#recipe-controls")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+  });
+}
+
 function selectedRecipe(id) {
   return recipes.find((entry) => entry.id === id);
 }
@@ -436,6 +481,7 @@ loadRecipeData()
     printedRecipes = loadPrintedRecipes();
     selectLayout(selectedLayout);
     renderRecipeList();
+    renderVersionHistory(window.VERSION_HISTORY);
     updatePrintOverview();
   })
   .catch((error) => {
