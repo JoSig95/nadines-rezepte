@@ -31,9 +31,6 @@ let recipe;
 let recipes = [];
 let selectedLayout = "compact";
 let printSelection = { left: "", right: "" };
-let printedRecipes = new Set();
-
-const PRINTED_STORAGE_KEY = "recipe-collection-printed-v1";
 
 const escapeHtml = (value) => String(value)
   .replaceAll("&", "&amp;")
@@ -204,23 +201,6 @@ function recipeCategory(entry) {
   return categoryDefinitions.find((category) => category.tags.some((tag) => tags.has(tag)))?.name || "Sonstiges";
 }
 
-function loadPrintedRecipes() {
-  try {
-    const stored = JSON.parse(localStorage.getItem(PRINTED_STORAGE_KEY) || "[]");
-    return new Set(Array.isArray(stored) ? stored.filter((id) => typeof id === "string") : []);
-  } catch {
-    return new Set();
-  }
-}
-
-function savePrintedRecipes() {
-  try {
-    localStorage.setItem(PRINTED_STORAGE_KEY, JSON.stringify([...printedRecipes]));
-  } catch {
-    // Die Sammlung bleibt auch dann nutzbar, wenn der Browser lokalen Speicher blockiert.
-  }
-}
-
 function renderRecipeList() {
   const list = document.querySelector("#recipe-list");
   const categoryNames = [...categoryDefinitions.map((category) => category.name), "Sonstiges"];
@@ -233,16 +213,12 @@ function renderRecipeList() {
     if (!categoryRecipes.length) return "";
 
     const rows = categoryRecipes.map(({ entry, index }) => `
-      <div class="recipe-list-row ${printedRecipes.has(entry.id) ? "is-printed" : ""}">
+      <div class="recipe-list-row">
         <button class="recipe-select" type="button" data-recipe-index="${index}" aria-current="${entry.id === recipe?.id ? "true" : "false"}">
           <span>${String(entry.recipeNumber || index + 1).padStart(2, "0")}</span>
           <strong>${escapeHtml(entry.name)}</strong>
           <small>${escapeHtml(entry.totalTime)}</small>
         </button>
-        <label class="printed-check">
-          <input type="checkbox" data-printed-id="${escapeHtml(entry.id)}" ${printedRecipes.has(entry.id) ? "checked" : ""} />
-          <span>Gedruckt</span>
-        </label>
       </div>`).join("");
 
     return `
@@ -257,14 +233,6 @@ function renderRecipeList() {
 
   list.querySelectorAll("[data-recipe-index]").forEach((button) => {
     button.addEventListener("click", () => selectRecipe(Number(button.dataset.recipeIndex)));
-  });
-  list.querySelectorAll("[data-printed-id]").forEach((checkbox) => {
-    checkbox.addEventListener("change", () => {
-      if (checkbox.checked) printedRecipes.add(checkbox.dataset.printedId);
-      else printedRecipes.delete(checkbox.dataset.printedId);
-      checkbox.closest(".recipe-list-row")?.classList.toggle("is-printed", checkbox.checked);
-      savePrintedRecipes();
-    });
   });
 }
 
@@ -478,7 +446,6 @@ loadRecipeData()
     recipes = data.recipes;
     selectedLayout = data.selectedLayout || "compact";
     recipe = recipes.at(-1);
-    printedRecipes = loadPrintedRecipes();
     selectLayout(selectedLayout);
     renderRecipeList();
     renderVersionHistory(window.VERSION_HISTORY);

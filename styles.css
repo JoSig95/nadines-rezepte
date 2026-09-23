@@ -270,7 +270,6 @@ main {
   background: rgba(255, 255, 255, 0.58);
   transition: border-color 150ms ease, background 150ms ease;
 }
-.recipe-list-row.is-printed { background: rgba(126, 146, 127, 0.1); }
 .recipe-select {
   width: 100%;
   display: grid;
@@ -291,18 +290,6 @@ main {
 .recipe-select > span { color: var(--tomato); font-size: 0.68rem; font-weight: 700; }
 .recipe-select strong { font-size: 0.78rem; line-height: 1.25; }
 .recipe-select small { color: var(--muted); font-size: 0.66rem; }
-.printed-check {
-  display: flex;
-  align-items: center;
-  gap: 7px;
-  padding: 7px 11px 8px;
-  border-top: 1px solid rgba(37, 48, 40, 0.09);
-  color: var(--muted);
-  font-size: 0.68rem;
-  cursor: pointer;
-}
-.printed-check input { width: 15px; height: 15px; margin: 0; accent-color: var(--sage-dark); }
-.recipe-list-row.is-printed .printed-check { color: var(--sage-dark); font-weight: 700; }
 .recipe-workspace { min-width: 0; }
 .recipe-controls {
   width: 148mm;
