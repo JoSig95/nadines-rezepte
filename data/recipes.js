@@ -1692,6 +1692,42 @@ window.RECIPE_DATA = {
         "url": null,
         "note": "Aus einem vom Nutzer bereitgestellten Screenshot übernommen; Emojis und nicht zum Rezept gehörende Oberflächenelemente wurden nicht übernommen. Die markenspezifische Formangabe wurde neutral als Backblech oder große Backform formuliert. Backzeit, zweite Gehzeit, Vorbereitungs- und Gesamtzeit wurden ergänzt bzw. geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
+    },
+    {
+      "id": "pizzateig-mit-langer-kalter-gare",
+      "recipeNumber": 42,
+      "name": "Pizzateig mit langer kalter Gare",
+      "description": "Aromatischer Pizzateig aus Tipo-00-Mehl mit 63 % Hydration und langer Reifezeit im Kühlschrank.",
+      "prepTime": "30 Min.",
+      "cookTime": "je Pizza 2–8 Min.",
+      "totalTime": "23–25 Std.",
+      "servings": 6,
+      "yield": "6 Teiglinge à ca. 275 g",
+      "difficulty": "Mittel",
+      "tags": ["pizza", "pizzateig", "italienisch", "lange gare"],
+      "cardPages": 2,
+      "ingredients": [
+        { "amount": "1000 g", "item": "Weizenmehl Tipo 00, 11–15 % Eiweiß" },
+        { "amount": "630 g", "item": "kaltes Wasser" },
+        { "amount": "30 g", "item": "feines Meersalz" },
+        { "amount": "3 g oder 1 g", "item": "frische Hefe oder Trockenhefe" }
+      ],
+      "steps": [
+        "Die Hefe im kalten Wasser auflösen. Mehl und anschließend das Meersalz dazugeben und alles zu einem glatten Teig verkneten.",
+        "Den Teig mehrmals dehnen und falten, anschließend abgedeckt 15 Minuten ruhen lassen.",
+        "Den Teig in sechs Portionen à etwa 275 g teilen, rund schleifen und in eine Pizzaballenbox setzen.",
+        "Die Teiglinge abgedeckt 1 Stunde bei Raumtemperatur ruhen lassen und danach 18–20 Stunden in den Kühlschrank stellen.",
+        "Die Teiglinge 3–4 Stunden vor dem Backen aus dem Kühlschrank nehmen und abgedeckt bei Raumtemperatur akklimatisieren lassen.",
+        "Den Backofen mit Pizzastein oder Backstahl auf höchster Stufe gründlich vorheizen. Die Teiglinge vorsichtig von Hand ausformen, nach Wunsch belegen und je nach Ofen 2–8 Minuten backen."
+      ],
+      "tip": "Den Teig nicht mit einem Nudelholz ausrollen, damit die während der langen Gare entstandene Luft im Rand erhalten bleibt.",
+      "image": "assets/images/pizzateig-mit-langer-kalter-gare.png",
+      "imageAlt": "Neapolitanische Pizza mit luftigem Rand neben zwei gegarten Pizzateiglingen",
+      "source": {
+        "type": "screenshot",
+        "url": null,
+        "note": "Aus einem vom Nutzer bereitgestellten Screenshot übernommen. Die Zutatenmengen und Gehzeiten wurden aus der Quelle übernommen. Ausbeute, aktive Vorbereitungszeit sowie die vom verwendeten Ofen abhängige Backzeit wurden ergänzt bzw. geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
     }
   ]
 };

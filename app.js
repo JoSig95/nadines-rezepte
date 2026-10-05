@@ -192,7 +192,7 @@ const categoryDefinitions = [
   { name: "Gebäck & Süßes", tags: ["cookies", "hefegebäck", "gebäck", "waffeln", "süßes"] },
   { name: "Desserts", tags: ["dessert"] },
   { name: "Salate & Beilagen", tags: ["salat", "salsa", "beilage"] },
-  { name: "Hauptgerichte", tags: ["pasta", "curry", "hähnchen", "hackfleisch"] },
+  { name: "Hauptgerichte", tags: ["pasta", "pizza", "curry", "hähnchen", "hackfleisch"] },
   { name: "Herzhaftes", tags: ["fisch", "schinken", "party", "streetfood", "airfryer"] },
 ];
 
