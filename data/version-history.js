@@ -1,10 +1,10 @@
 window.VERSION_HISTORY = {
-  "currentVersion": "1.42.0",
+  "currentVersion": "1.43.0",
   "entries": [
+    { "version": "1.43.0", "date": "2026-10-09", "recipeNumber": 43, "recipeId": "dampfnudeln-aus-der-pfanne", "recipeName": "Dampfnudeln aus der Pfanne" },
     { "version": "1.42.0", "date": "2026-10-05", "recipeNumber": 42, "recipeId": "pizzateig-mit-langer-kalter-gare", "recipeName": "Pizzateig mit langer kalter Gare" },
     { "version": "1.41.0", "date": "2026-09-23", "recipeNumber": 41, "recipeId": "fruehstueckswecken-mit-buttermilch", "recipeName": "Frühstückswecken mit Buttermilch" },
     { "version": "1.40.0", "date": "2026-09-11", "recipeNumber": 40, "recipeId": "herbstsalat-mit-ofenkuerbis-und-kichererbsen", "recipeName": "Herbstsalat mit Ofenkürbis und Kichererbsen" },
-    { "version": "1.39.0", "date": "2026-09-10", "recipeNumber": 39, "recipeId": "marzipantorte-mit-himbeerfuellung", "recipeName": "Marzipantorte mit Himbeerfüllung" },
-    { "version": "1.38.0", "date": "2026-09-04", "recipeNumber": 38, "recipeId": "garlic-naan-mit-knoblauchbutter", "recipeName": "Garlic Naan mit Knoblauchbutter" }
+    { "version": "1.39.0", "date": "2026-09-10", "recipeNumber": 39, "recipeId": "marzipantorte-mit-himbeerfuellung", "recipeName": "Marzipantorte mit Himbeerfüllung" }
   ]
 };

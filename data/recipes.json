@@ -1726,6 +1726,48 @@
         "url": null,
         "note": "Aus einem vom Nutzer bereitgestellten Screenshot übernommen. Die Zutatenmengen und Gehzeiten wurden aus der Quelle übernommen. Ausbeute, aktive Vorbereitungszeit sowie die vom verwendeten Ofen abhängige Backzeit wurden ergänzt bzw. geschätzt. Gerichtsfoto mit OpenAI ImageGen erstellt."
       }
+    },
+    {
+      "id": "dampfnudeln-aus-der-pfanne",
+      "recipeNumber": 43,
+      "name": "Dampfnudeln aus der Pfanne",
+      "description": "Fluffige Hefeknödel mit buttrig-karamellisiertem Boden, direkt in der Pfanne gegart.",
+      "prepTime": "20 Min.",
+      "cookTime": "30 Min.",
+      "totalTime": "ca. 2 Std. 10 Min.",
+      "servings": 4,
+      "yield": "ca. 9 Dampfnudeln",
+      "difficulty": "Mittel",
+      "tags": ["hefegebäck", "süßes", "dampfnudeln"],
+      "cardPages": 2,
+      "ingredients": [
+        { "group": "Teig", "amount": "500 g", "item": "Mehl" },
+        { "group": "Teig", "amount": "20 g oder 1 Pck.", "item": "frische Hefe oder Trockenhefe" },
+        { "group": "Teig", "amount": "50 g", "item": "Zucker" },
+        { "group": "Teig", "amount": "250 ml", "item": "Milch" },
+        { "group": "Teig", "amount": "½ TL", "item": "Salz" },
+        { "group": "Teig", "amount": "80 g", "item": "Butter, zerlassen" },
+        { "group": "Teig", "amount": "1", "item": "Ei, Größe M–L" },
+        { "group": "Für die Pfanne", "amount": "100 g", "item": "Butter" },
+        { "group": "Für die Pfanne", "amount": "125 ml", "item": "Milch" },
+        { "group": "Für die Pfanne", "amount": "100–150 g", "item": "Zucker" }
+      ],
+      "steps": [
+        "Die Milch lauwarm erwärmen. Hefe und Zucker darin auflösen, dann Mehl, Salz, zerlassene Butter und Ei dazugeben und alles zu einem glatten Hefeteig verkneten.",
+        "Den Teig abgedeckt mindestens 1 Stunde an einem warmen Ort gehen lassen.",
+        "Den Teig zu einer etwa 7 cm dicken Rolle formen, in etwa neun gleich große Stücke teilen und zu runden Knödeln formen.",
+        "Die Teiglinge leicht flach drücken und abgedeckt nochmals etwa 20 Minuten gehen lassen.",
+        "Butter, Milch und Zucker in eine Pfanne mit hohem Rand und dicht schließendem Deckel geben. Die Teiglinge hineinsetzen und zugedeckt bei mittlerer Hitze etwa 30 Minuten garen, bis die Flüssigkeit vollständig verdampft ist.",
+        "Die Dampfnudeln warm servieren, nach Wunsch mit Vanillesoße oder Apfelmus."
+      ],
+      "tip": "Den Deckel während des Garens keinesfalls anheben, sonst fallen die Dampfnudeln zusammen.",
+      "image": "assets/images/dampfnudeln-aus-der-pfanne.png",
+      "imageAlt": "Fluffige Dampfnudeln mit karamellisiertem Boden, Vanillesoße und Apfelmus",
+      "source": {
+        "type": "screenshots",
+        "url": "https://www.chefkoch.de/",
+        "note": "Aus drei vom Nutzer bereitgestellten Chefkoch-Screenshots übernommen; Browseroberfläche und Werbung wurden nicht übernommen. Die in der Quelle widersprüchlich angegebene Gesamtzeit von 20 Minuten wurde anhand von mindestens 1 Stunde Gehzeit und etwa 30 Minuten Garzeit korrigiert. Die zweite Gehzeit von etwa 20 Minuten wurde ergänzt; die gerundete Milchmenge von 0,13 l wurde entsprechend dem Zubereitungstext als 125 ml übernommen. Gerichtsfoto mit OpenAI ImageGen erstellt."
+      }
     }
   ]
 }
